@@ -1,0 +1,1960 @@
+__label__Ministre_des_Finances Promotion  des  technologies  vertes
+__label__Ministre_de_l'Intérieur Retard  de  livraison  de  cartes  d'identité  réalisées  en  Belgique
+__label__Ministre_de_la_Santé Accès  au  dossier  patient  et  à  l'ensemble  des  informations  relatives  à  la  santé
+__label__Ministre_de_la_Sécurité_sociale Forfait  pour  matériel  d'incontinence
+__label__Ministre_de_la_Justice Etablissements  de  crédit  belge
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Site  retenu  en  vue  de  l'implantation  du  nouveau  stade  de  football  et  d'un  centre  commercial  à  Livange
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Projet  "Quiet-Track"
+__label__Ministre_des_Finances Participations  de  l'État
+__label__Ministre_de_la_Santé Consommation  d'alcoolpops  par  les  mineurs
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Espace  seniors  à  Rumelange
+__label__Ministre_de_l'Education_nationale Instruction  ministérielle  concernant  l'intervention  à  l'école  de  personnalités  du  monde  politique
+__label__Ministre_de_la_Santé Construction  du  nouvel  Institut  IMC  (Institut  pour  enfants  et  jeunes  infirmes  moteurs  cérébraux)  à  Luxembourg
+__label__Ministre_des_Finances Logements  utilisés  en  tant  que  bureaux
+__label__Ministre_de_la_Santé Recherche  dans  le  domaine  des  biotechnologies
+__label__Ministre_de_la_Justice Fuite  de  mazout  dans  l'aréal  du  centre  pénitentiaire  de  Schrassig
+__label__Premier_Ministre Réseau  d'espionnage  économique  et  commercial
+__label__Ministre_des_Finances Surfaces  de  compensation
+__label__Ministre_de_la_Justice Taux  de  réinsertion  sociale  des  détenus
+__label__Ministre_de_la_Justice Transfèrement  des  détenus
+__label__Premier_Ministre Opération  d'espionnage  "Rubicon"
+__label__Ministre_de_la_Santé Approvisionnement  en  vaccins  contre  la  grippe  saisonnière
+__label__Ministre_de_l'Intérieur Services  de  taxis
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Gratuité  des  transports  en  commun  pour  les  élèves  âgés  de  plus  de  25  ans  fréquentant  l'enseignement  secondaire
+__label__Ministre_des_Finances Déductions  fiscales  pour  personnes  payant  des  soins  et  des  frais  d'hébergement  en  maison  de  soins  ou  CIPA
+__label__Ministre_de_la_Justice Digitalisation  et  numérisation  de  la  procédure  et  des  dossiers  judiciaires
+__label__Ministre_de_la_Justice Placement  des  personnes  sans  papiers  ou  munies  de  faux  papiers
+__label__Ministre_de_l'Intérieur Rapport  intermédiaire  sur  la  mise  en  pratique  de  la  réforme  des  forces  de  l'ordre
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Reconversion  des  friches  industrielles  à  Esch-sur-Alzette  et  Schifflange
+__label__Ministre_de_la_Justice Complications  techniques  de  l'hélicoptère  de  la  police  grand-ducale
+__label__Ministre_de_la_Santé Procédures  d'autorisation  de  produits  chimiques
+__label__Ministre_des_Finances Loi  de  financement  pour  les  projets  d'investissement  dans  le  secteur  hospitalier
+__label__Ministre_des_Finances Marché  public  dans  le  cadre  de  la  crise  de  la  Covid-19
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Contournement  pour  la  commune  de  Bascharage
+__label__Ministre_de_la_Sécurité_sociale Déclaration  d'incapacité  de  travail  dans  le  cadre  de  la  pandémie  de  la  Covid-19
+__label__Ministre_des_Finances Entrée  sur  le  territoire  de  l'Union  européenne
+__label__Premier_Ministre Ouverture  du  vote  par  correspondance  à  tout  électeur  qui  en  fait  la  demande
+__label__Ministre_de_l'Intérieur Centre  de  stockage  de  déchets  nucléaires  à  Bure
+__label__Ministre_de_la_Sécurité_sociale Procédure  disciplinaire  au  niveau  du  corps  médical
+__label__Ministre_de_la_Justice Avenir  du  projet  Joint  Hit  Team
+__label__Ministre_de_la_Santé Délais  auprès  du  Conseil  Arbitral  des  Assurances  Sociales
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Car-sharing
+__label__Ministre_de_l'Intérieur Intérêt  personnel  et  direct  d'un  membre  du  conseil  communal  aux  délibérations
+__label__Ministre_de_la_Justice Jeux  de  hasard
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Réaménagement  de  la  traversée  de  Junglinster  après  l'ouverture  du  contournement.
+__label__Ministre_de_la_Santé Maisons  médicales
+__label__Premier_Ministre Code  de  déontologie  applicable  aux  membres  du  Gouvernement
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Desserte  de  la  commune  de  Rambrouch  par  les  bus  RGTR
+__label__Ministre_de_la_Sécurité_sociale Ambulances  privées
+__label__Ministre_de_l'Intérieur Circulaire  n°3393  envoyée  aux  communes  début  août  2016
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Fermeture,  aux  heures  de  pointe,  d'une  voie  du  tunnel  "Stafelter"  en  direction  de  Luxembourg-Ville
+__label__Ministre_de_la_Santé Vidéosurveillance  sur  certains  sites  du  "Large  scale  testing"
+__label__Ministre_de_l'Intérieur Nouveau  quartier  AGORA  à  Esch/Belval
+__label__Ministre_de_la_Justice Sécurité  des  élèves  et  des  enseignants
+__label__Ministre_de_la_Santé Cancer  colorectal
+__label__Ministre_de_l'Intérieur Loi  électorale
+__label__Ministre_de_la_Justice Composition  de  conseils  d'administration  de  sociétés  ou  d'a.s.b.l.  suite  aux  élections  communales  du  9  octobre  2011
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Sécurité  dans  les  transports  publics
+__label__Ministre_de_la_Sécurité_sociale Remboursements  par  la  CNS
+__label__Ministre_de_la_Santé Masques  de  protection  de  qualité  douteuse  et  fraudée
+__label__Ministre_de_la_Santé Fermeture  de  centres  de  dépistage
+__label__Premier_Ministre Objectifs  de  développement  durable  pour  la  période  2015-2030  de  l'ONU
+__label__Ministre_de_la_Santé Informations  concernant  le  coronavirus
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Site  'Schëttermarjal'
+__label__Ministre_de_la_Justice Décision  ministérielle  du  2  juin  1997  annulée  par  le  Tribunal  administratif
+__label__Ministre_des_Finances Conséquences  d'élections  anticipées
+__label__Ministre_de_la_Santé Utilisation  du  chlore  dans  les  piscines
+__label__Ministre_de_la_Santé Grippe  aviaire
+__label__Ministre_de_la_Justice Peines  applicables  en  matière  d'accidents  de  la  circulation  mortels
+__label__Ministre_de_la_Santé Laboratoire  national  de  santé
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Pratique  du  jet  ski  sur  la  Moselle
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Lignes  RGTR  desservant  la  ville  de  Dudelange
+__label__Ministre_de_la_Santé Statut  du  coach  sportif
+__label__Premier_Ministre Site  de  Cinqfontaines  et  suites  que  le  Gouvernement  entend  donner  au  rapport  sur  les  spoliations  des  juifs  pendant  la  Seconde  Guerre  Mondiale
+__label__Ministre_de_la_Sécurité_sociale Remboursement  des  analyses  médicales
+__label__Ministre_de_la_Justice La  protection  des  données  à  caractère  personnel
+__label__Ministre_de_l'Intérieur Conservation  et  entretien  des  édifices  religieux
+__label__Ministre_des_Finances Secret  bancaire
+__label__Ministre_de_la_Santé Répartition  des  pharmacies  à  Esch-sur-Alzette
+__label__Premier_Ministre Reconnaissance  du  catalan  comme  langue  officielle  du  Parlement  européen
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Augmentation  du  capital  de  CARGOLUX
+__label__Ministre_de_la_Santé Examens  IRM
+__label__Ministre_de_la_Santé Échange  internationaux  concernant  l'autorisation  d'exercer  des  médecins
+__label__Ministre_de_la_Santé Personnes  ayant  été  atteintes  d'un  cancer
+__label__Ministre_de_la_Justice Procédure  de  naturalisation
+__label__Ministre_des_Finances Locaux  commerciaux  en  possession  de  l'Administration  des  Bâtiments  publics
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Fréquentation  moyenne  des  trains  roulant  entre  les  deux  villes  de  la  Nordstad
+__label__Ministre_de_l'Education_nationale Offre  pédagogique  du  "Sportlycée"
+__label__Ministre_des_Finances Plan  national  pour  la  reprise  et  la  résilience
+__label__Ministre_de_la_Santé Villa  Louvigny
+__label__Ministre_de_la_Sécurité_sociale Répercussions  du  plafonnement  de  l'indexation  automatique  sur  les  comptes  de  la  Caisse  nationale  d'Assurance  Pension
+__label__Ministre_de_la_Justice Règlement  grand-ducal  du  14  décembre  1976  portant  réorganisation  du  casier  judiciaire  aux  personnes  morales
+__label__Ministre_de_la_Santé Prévention  contre  le  coronavirus
+__label__Ministre_de_l'Intérieur Annonces  d'offre  d'emploi
+__label__Ministre_de_la_Justice Activités  de  la  secte  de  Sukyo  Mahikari  à  Ansembourg
+__label__Ministre_de_l'Education_nationale Éducation  aux  médias
+__label__Ministre_de_l'Education_nationale Nouveau  hall  sportif  à  Echternach
+__label__Ministre_de_l'Intérieur Plan  directeur  sectoriel  "Stations  de  base  pour  réseaux  publics  de  communications  mobiles"
+__label__Ministre_de_l'Education_nationale École  fondamentale  étatique  "Eis  Schoul"
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Installation  d'un  "P&R"  au  lieu-dit  "Schinker"
+__label__Ministre_de_la_Santé Centre  de  vaccination  à  Ettelbruck
+__label__Premier_Ministre Pression  du  FMI  sur  la  BCE
+__label__Ministre_de_l'Education_nationale Conséquences  de  l'accord    trouvé  entre  les  syndicats  et  le  Ministère  pour  l'organisation  de  la  formation  professionnelle
+__label__Ministre_de_la_Santé Consentement  éclairé
+__label__Ministre_de_la_Santé Etude  sur  la  sécurité  de  la  centrale  nucléaire  de  Cattenom
+__label__Ministre_des_Finances Réforme  de  l'impôt  foncier
+__label__Ministre_de_la_Justice Appels  électoraux  par  de  hauts  fonctionnaires  en  vue  des  élections  sociales
+__label__Ministre_de_la_Santé Concept  intégré  pour  le  sport  au  Grand-Duché  de  Luxembourg
+__label__Ministre_de_l'Education_nationale Passage  de  l'enseignement  fondamental  vers  l'enseignement  secondaire
+__label__Ministre_de_la_Justice Bénéficiaires  effectifs  dans  le  cas  d'une  faillite
+__label__Ministre_des_Finances Poursuites  en  matière  fiscale
+__label__Ministre_de_la_Santé Demande  le  retrait  du  marché  de  deux  détergents  multi-usages  en  France
+__label__Ministre_de_l'Education_nationale Mise  à  disposition  de  produits  hygiéniques  féminins  dans  les  établissements  scolaires
+__label__Ministre_de_la_Sécurité_sociale Remboursement  des  Mémoires  d'Honoraires  par  la  CNS
+__label__Ministre_de_la_Sécurité_sociale Loi  du  25  juillet  2002  concernant  l'incapacité  de  travail  et  la  réinsertion  professionnelle
+__label__Premier_Ministre Participation  des  non-luxembourgeois  aux  élections  communales  et  européennes
+__label__Ministre_de_la_Sécurité_sociale Service  d'urgence  des  hôpitaux
+__label__Ministre_de_la_Santé Problèmes  de  santé  liés  aux  éoliennes
+__label__Ministre_de_l'Intérieur Réorganisation  du  travail  policier  sur  le  terrain  national
+__label__Ministre_des_Finances Renégociation  de  la  Convention  de  double  imposition  avec  la  Belgique
+__label__Ministre_de_la_Santé Methicillin  resistenter  Staphylococcus  aureus
+__label__Ministre_de_l'Education_nationale Stratégie  nationale  du  lifelong  learning
+__label__Ministre_de_l'Education_nationale Différentiation  interne  dans  l'enseignement  fondamental
+__label__Ministre_des_Finances Protection  des  consommateurs  lors  de  l'achat  de  biens  immobiliers
+__label__Ministre_de_la_Santé Mortalité  infantile  des  bébés
+__label__Premier_Ministre Etablissements  publics
+__label__Ministre_de_la_Justice Accords  bilatéraux  avec  la  France  sur  l'espace  aérien
+__label__Ministre_de_la_Justice Récents  propos  de  l'ex-général  bosniaque  Atif  Dudakovic
+__label__Ministre_de_la_Santé Possibilité  pour  un  médecin  d'acquérir  du  matériel  d'imagerie  de  résonance  magnétique  (IRM)  pour  un  cabinet  ou  centre  médical  privé
+__label__Ministre_des_Finances Article  paru  ce  matin  dans  le  quotidien  allemand  "Süddeutsche  Zeitung"
+__label__Ministre_de_la_Santé Frais  de  transport  en  ambulance
+__label__Ministre_de_la_Santé Démarchage
+__label__Ministre_de_la_Santé Cryothérapie
+__label__Ministre_des_Finances Contrats  de  prévoyance-viellesse
+__label__Ministre_de_la_Santé Méthode  du  "pooling"  dans  le  cadre  du  dépistage  à  grande  échelle  de  la  Covid-19
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Test  capillaire  de  drogues
+__label__Ministre_de_la_Sécurité_sociale Remboursement  de  la  blistérisation
+__label__Ministre_de_la_Santé Occupation  de  lits  des  hôpitaux
+__label__Ministre_des_Finances Imposition  des  personnes  physiques
+__label__Ministre_de_la_Santé Accord  écrit  entre  le  médecin  et  le  patient
+__label__Ministre_de_l'Intérieur Procédure  d'établissements  de  nights  clubs,  cabarets  et  bars
+__label__Ministre_des_Finances Résultats  du  conseil  Ecofin  et  les  retombées  pour  le  secteur  financier  du  Grand-Duché
+__label__Ministre_des_Finances Encaissement  de  la  TVA  par  l'administration  de  l'Enregistrement  et  des  Domaines
+__label__Ministre_de_la_Justice Sécurité  au  centre  pénitentiaire  de  Schrassig
+__label__Ministre_de_l'Education_nationale Distribution  des  questionnaires  des  épreuves  communes  du  cycle  4.2
+__label__Ministre_de_la_Justice Assistance  judiciaire
+__label__Ministre_de_l'Intérieur Respect  d'un  périmètre  d'habitation  pour  les  membres  de  la  police  grand-ducale
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Fermeture  de  certains  guichets  des  gares  CFL
+__label__Ministre_de_la_Santé Annulation  de  la  convention  avec  l'a.s.b.l.  SMA
+__label__Ministre_de_la_Santé Morts  causées  par  l'amiante
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Problèmes  de  circulation  sur  les  autoroutes  causés  par  les  chantiers  en  cours  ou  à  venir
+__label__Ministre_de_la_Santé Interventions  chirurgicales  sur  enfants  intersexes
+__label__Ministre_de_l'Education_nationale Unité  de  sécurité  pour  mineurs  délinquants  à  Dreiborn
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Eventuelle  mise  à  l'arrêt  du  site  de  production  d'ArcelorMittal  à  Schifflange
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Etablissement  par  la  Cargolux  de  sociétés  aux  Îles  vierges  britanniques
+__label__Ministre_de_la_Santé Limitation  des  tranquilisants  et  somnifères
+__label__Ministre_de_la_Sécurité_sociale Budget  des  caisses  de  maladie
+__label__Ministre_de_la_Justice Situation  des  enfants  adoptés,  en  cours  de  partenariat,  par  un  des  parents
+__label__Ministre_de_la_Justice Aggression  contre  la  police
+__label__Premier_Ministre Harmonisation  de  la  taxation  des  entreprises
+__label__Ministre_des_Finances Demande  de  prolongation  des  programmes  de  sauvetage  de  la  Grèce
+__label__Ministre_de_l'Education_nationale Activités  de  l'aide  à  la  petite  enfance
+__label__Ministre_de_l'Education_nationale Objectivité  des  cours  d'éducation  morale  et  sociale
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Ligne  de  bus  Esch/Belval  -  Dippach  -  Arlon
+__label__Ministre_de_l'Education_nationale Fermeture  de  l'atelier  "Dys"  à  Oberkorn
+__label__Ministre_de_l'Education_nationale Organisatioun  "Nues  am  Wand"
+__label__Ministre_de_la_Santé Lutte  contre  le  SIDA
+__label__Ministre_de_la_Justice Pièces  à  conviction  dans  l'affaire  "Bommeleeër"
+__label__Ministre_des_Finances Mise  en  oeuvre  du  pacte  logement
+__label__Ministre_des_Finances Système  de  rémunération  variable  des  banques
+__label__Ministre_de_la_Santé Vaccination  des  éducateurs
+__label__Premier_Ministre Publication  des  données  de  localisation  des  utilisateurs  de  l'application  Google  Maps  par  le  géant  américain  dans  le  contexte  de  la  pandémie  du  coronavirus
+__label__Ministre_de_l'Intérieur Règlements  de  la  circulation
+__label__Ministre_de_la_Santé Recommandations  pour  les  structures  d'accueil  pour  personnes  âgées
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Taxe  de  réservation  pour  les  voyages  en  groupe  ayant  une  "Jumbo-Kaart"  ou  une  autre  "carte  de  libre  circulation"
+__label__Ministre_de_la_Justice Protection  des  données  à  caractère  personnel  sur  Facebook
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Démontage  des  candelabres  le  long  de  l'autoroute  A6
+__label__Ministre_de_la_Sécurité_sociale Nouvelle  directive  de  l'Union  européenne  concernant  le  secteur  du  transport  routier
+__label__Ministre_de_l'Intérieur Listes  pour  les  élections  communales
+__label__Premier_Ministre Risque  de  manipulations  des  élections  européennes  de  mai  2019
+__label__Premier_Ministre Travaux  de  la  Commission  spéciale  pour  l'étude  des  spoliations  des  biens  juifs  au  Luxembourg  pendant  les  années  de  guerre  1940-1945
+__label__Ministre_de_l'Education_nationale Adaptations  à  la  formation  professionnelle
+__label__Ministre_de_la_Santé Personnel  supplémentaire  pour  les  hôpitaux
+__label__Ministre_de_l'Education_nationale Taux  de  réussite  au  Lycée  technique  pour  professions  de  santé
+__label__Premier_Ministre Commission  nationale  pour  la  protection  des  données
+__label__Ministre_de_l'Education_nationale L'avenir  à  la  formation  des  adultes  et  du  "Life-long-learning"
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Contournement  de  Dippach-Gare
+__label__Ministre_de_la_Justice Palais  de  justice  de  Diekirch
+__label__Ministre_de_la_Santé Yaourts  et  boissons  lactées
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Consultation  du  public  dans  le  cadre  du  contournement  envisagé  de  Bascharage
+__label__Ministre_de_la_Santé Echographie
+__label__Ministre_de_la_Justice Cessation  et  saisie  des  rémunérations
+__label__Ministre_de_la_Santé Fonds  d'indemnisation  en  cas  d'aléas  thérapeutiques  ou  d'accidents  médicaux
+__label__Ministre_des_Finances Investissements  de  moins  de  40  millions  d'euros
+__label__Ministre_des_Finances Augmentation  de  capital  de  la  Banque  centrale  du  Luxembourg
+__label__Ministre_des_Finances Abaissement  des  taux  directeurs  par  la  Banque  centrale  européenne
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Séneçon  de  Jacob
+__label__Ministre_de_l'Education_nationale Service  rééducatif  ambulatoire  (SREA)
+__label__Ministre_des_Finances Evaluation  des  aides  fiscales  aux  entreprises
+__label__Ministre_de_l'Education_nationale Formation  professionnelle
+__label__Ministre_de_l'Intérieur Attribution  d'un  prix  d'encouragement  aux  exploitants  d'une  station  d'épuration
+__label__Ministre_de_la_Santé Délai  d'injection  entre  les  deux  doses  du  vaccin  Vaxzevria
+__label__Ministre_de_l'Education_nationale Qualifications  requises  pour  la  surveillance  des  activités  balnéaires  pendant  les  vacances  scolaires
+__label__Ministre_de_la_Santé Réseau  de  pharmacies
+__label__Ministre_de_la_Sécurité_sociale Remboursement  complémentaire  de  soins  de  santé  par  la  caisse  de  santé/maladie
+__label__Ministre_des_Finances Répercussions  du  départ  d'une  grande  entreprise  américaine  du  secteur  du  commerce  et  de  la  communication  électronique
+__label__Ministre_de_la_Justice Enquêtes  menées  contre  des  fonctionnaires  de  l'Administration  des  Eaux  et  Forêts
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Ouverture  de  l'Université  du  Luxembourg
+__label__Ministre_de_la_Sécurité_sociale NOVABUS
+__label__Ministre_des_Finances Avertissements  taxés
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Dépassement  de  la  valeur  limite  pour  les  émissions  de  NOx
+__label__Ministre_de_l'Education_nationale Recrutement  de  nouveau  personnel  par  le  Ministère  de  l'Éducation  nationale,  de  l'Enfance  et  de  la  Jeunesse
+__label__Ministre_de_la_Santé La  vente  de  produits  de  tabacs  dans  les  commerces  se  trouvant  dans  les  hôpitaux
+__label__Ministre_de_l'Education_nationale Mesures  sanitaires  dans  les  écoles
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Circulation  interfiles  des  deux-  ou  trois-roues
+__label__Ministre_des_Finances Délégations  du  personnel  dans  les  conseils  d'administration  des  entreprises  comportant  une  participation  de  l'État
+__label__Ministre_de_l'Intérieur Réforme  des  finances  communales
+__label__Ministre_de_la_Santé Utilisation  des  données  des  dossiers  passagers  dans  le  cadre  de  la  pandémie  de  la  Covid-19
+__label__Premier_Ministre Initiatives  législatives  en  matière  de  participation  politique  des  non-luxembourgeois
+__label__Ministre_de_l'Intérieur Intervention  de  l'hélicoptère  de  police  à  Bourscheid-Plage
+__label__Ministre_des_Finances Dimension  sociale  du  semestre  européen
+__label__Ministre_de_la_Santé Evolution  démographique
+__label__Ministre_de_la_Santé Laboratoire  National  de  Santé
+__label__Ministre_de_l'Education_nationale "Bildungsbericht  Luxemburg  2015"
+__label__Ministre_de_l'Education_nationale Chômage  chez  les  jeunes
+__label__Ministre_des_Finances Secret  bancaire
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Emissions  de  NOx  des  véhicules
+__label__Ministre_de_la_Justice Extrait  du  registre  du  commerce
+__label__Ministre_des_Finances Fondation  patrimoniale
+__label__Ministre_de_la_Justice Logiciels  RFS  (Remote  Forensic  Software)
+__label__Ministre_de_la_Santé Formulaire  R4  envoyé  par  la  CNS  après  un  congé  de  maladie  de  plus  6  semaines
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Taxis
+__label__Premier_Ministre Introduction  d'une  sixième  semaine  de  congé  payé  dans  la  fonction  publique
+__label__Ministre_de_l'Education_nationale Ecole  internationale  à  Differdange
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Emplacement  des  radars  fixes
+__label__Ministre_de_la_Sécurité_sociale Circoncision
+__label__Ministre_de_la_Sécurité_sociale Ajustement  des  pensions
+__label__Ministre_des_Finances Utilisation  de  biocarburant
+__label__Ministre_des_Finances Initiative  InnovFin  SME  Guarantee
+__label__Ministre_de_la_Sécurité_sociale Résultats  au  Luxembourg  de  la  campagne  de  sensibilisation  au  dépistage  précoce  du  diabète  dans  le  cadre  d'un  projet  européen  Inter-Reg  III  ayant  eu  lieu  du  20  au  25  novembre  2006
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Energie  éolienne
+__label__Ministre_de_la_Sécurité_sociale Etablissement  public  "Fonds  de  compensation"
+__label__Ministre_de_la_Santé Interdiction  de  "Spice"  au  Luxembourg
+__label__Premier_Ministre Discrimination  à  cause  de  décisions  prises  par  des  algorithmes
+__label__Ministre_des_Finances Conclusions  du  Conseil  ECOFIN  du  8  décembre  2015
+__label__Ministre_de_la_Santé Milieu  hospitalier  et  langue  luxembourgeoise
+__label__Ministre_de_l'Education_nationale Formation  dans  les  établissements  pénitentiaires
+__label__Ministre_de_la_Justice Action  de  la  police  lors  de  la  manifestation  devant  le  siège  du  groupe  sidérurgique  ArcelorMittal
+__label__Ministre_de_la_Santé Statut  unique  et  "Lohnfortzahlung"
+__label__Ministre_de_la_Justice Renforcement  des  droits  du  père
+__label__Ministre_de_l'Education_nationale Nordstad-Lycée
+__label__Ministre_des_Finances Coopération  administrative  entre  l'administration  des  douanes  et  des  parquets  étrangers
+__label__Ministre_de_la_Santé Alerte  du  Bundesumweltamt  concernant  les  cours  de  bébé-nageurs
+__label__Ministre_des_Finances Affaire  "Swiss  Leaks"
+__label__Ministre_de_l'Education_nationale Offre  de  cours  de  formation  morale  et  sociale  dans  les  écoles  privées  conventionnées  par  l'Etat
+__label__Ministre_de_la_Santé Infrastructure  médicale  dans  le  Nord  du  pays
+__label__Ministre_des_Finances Dépôt  des  déclarations  d'impôts  mensuelles  et  trimestrielles  de  la  taxe  sur  la  valeur  ajoutée
+__label__Ministre_de_la_Justice Placement  d'une  personne,  déclarée  pénalement  non  responsable,  dans  la  prison  de  Schrassig
+__label__Ministre_de_la_Santé Avis  favorable  de  l'Autorité  européenne  de  sécurité  des  aliments  (EFSA)  pour  l'autorisation  du    maïs  MON  810  en  UE
+__label__Ministre_des_Finances La  convention  fiscale  entre  le  Grand-Duché  de  Luxembourg  et  la  République  Fédérale  d'Allemagne
+__label__Ministre_de_l'Education_nationale Enfants  à  besoins  spécifiques
+__label__Ministre_de_la_Santé Installation  d'une  IRM  ouvert
+__label__Ministre_de_la_Justice Procédure  en  cas  de  procès  pour  cause  d'abus  sexuel
+__label__Ministre_de_l'Education_nationale Lycée  technique  hôtelier  Alexis-Heck
+__label__Ministre_de_la_Santé Trois  cas  de  la  maladie  de  Creutzfeld-Jacob  au  Luxembourg  depuis  1995
+__label__Ministre_de_la_Santé Rôle  de  la  société  TNS-ILRes  dans  le  cadre  des  tests  d'immunité  au  coronavirus
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Aménagement  de  parkings  d'échange  "Park  &  Ride"
+__label__Premier_Ministre Représentants  de  l'Etat  dans  les  conseils  d'administration
+__label__Ministre_de_la_Justice Promotion  des  produits  du  terroir  dans  les  cantines  sous  tutelle  étatique
+__label__Ministre_de_la_Justice Loi  portant  incrimination  du  racisme,  du  révisionnisme  et  d'autres  agissements  fondés  sur  des  discriminations  illégales
+__label__Premier_Ministre Armorial  des  communes
+__label__Ministre_des_Finances Vente  de  gazole  pour  camions
+__label__Ministre_de_la_Santé Vente  en  ligne  de  médicaments
+__label__Premier_Ministre Menaces  terroristes
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Introduction  des  gyropodes  dans  le  Code  de  la  Route
+__label__Ministre_de_la_Santé Aides-soignants
+__label__Ministre_des_Finances Électro-mobilité
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Horaire  estival  auprès  de  l'Administration  des  Ponts  et  Chaussées
+__label__Ministre_des_Finances Indemnisations  des  pharmacies  pour  la  prestation  des  services  de  garde
+__label__Ministre_de_la_Santé Traitement  des  patients  atteints  d'une  maladie  chronique
+__label__Ministre_des_Finances Activités  auxiliaires  effectuées  par  des  fonctionnaires  de  l'Administration  des  Contributions  directes
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Installation  d'un  radar  sol  à  l'aéroport  de  Findel
+__label__Ministre_des_Finances Baisse  de  l'indemnité  kilométrique
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Echangeur  «  Helleng  »
+__label__Premier_Ministre Liste  des  administrateurs/représentants  de  l'Etat  dans  les  sociétés  suivantesSES  Global  et  Fonds  national  de  soutien  à  la  production  audiovisuelle
+__label__Ministre_des_Finances Services  de  paiement
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Statut  de  centre  de  développement  et  d'attraction  (CDA)  d'ordre  moyen  des  six  communes  de  la  "Nordstad"
+__label__Ministre_de_l'Education_nationale Tests  rapides  Covid-19  dans  l'enseignement  fondamental  et  dans  l'enseignement  secondaire
+__label__Ministre_de_la_Santé "Aliments  potentiellement  à  risque"  en  cas  de  contamination  nucléaire
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Tarification  des  transports  ferroviaires  dans  la  Grande  Région
+__label__Ministre_de_la_Justice Incident  technique  au  Centre  Pénitentiaire  de  Schrassig
+__label__Ministre_de_la_Santé Poires  belges  avec  des  résidus  de  chloreméquat
+__label__Premier_Ministre Adaptation  des  tarifs  de  GSM  au  bénéfice  des  personnes  sourdes  et  muettes
+__label__Premier_Ministre Mise  en  place  d'une  "Agence  de  droits  fondamentaux  de  l'Union  européenne"
+__label__Ministre_de_la_Santé Don  du  sang  par  les  homosexuels
+__label__Ministre_des_Finances Communication  des  bases  d'assiette  de  l'impôt  commercial  aux  communes
+__label__Ministre_de_la_Santé Dossier  de  soins  partagé
+__label__Ministre_de_la_Justice Délivrance  de  mandats  d'arrêt  européens
+__label__Ministre_de_la_Santé Neuroleptique
+__label__Ministre_de_la_Santé Installation  de  quatre  nouveaux  appareils  d'imagerie  par  résonance  magnétique  (IRM)
+__label__Ministre_des_Finances Plus-values  réalisées  lors  d'une  expropriation  ou  vente  en  cas  d'utilité  publique
+__label__Ministre_de_la_Santé Pollution  de  l'air
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Construction  d'un  nouveau  Lycée  technique  agricole  (LTA)
+__label__Ministre_de_la_Sécurité_sociale Stocks  de  vaccins  contre  la  grippe  saisonnière
+__label__Ministre_du_Développement_durable_et_des_Infrastructures CR  351  entre  Erpeldange  et  Diekirch
+__label__Ministre_du_Développement_durable_et_des_Infrastructures "Modal  split"
+__label__Ministre_de_l'Education_nationale Diversité  des  rythmes  scolaires
+__label__Ministre_de_la_Justice Hélicoptère  de  la  Police  grand-ducale
+__label__Ministre_de_l'Education_nationale Site  de  l'ancien  cloître  de  Marienthal
+__label__Premier_Ministre Interdiction  de  toute  forme  de  publicité  pour  le  tabac
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Accessibilité  des  transports  en  commun
+__label__Ministre_de_la_Santé Analyse  des  statistiques  sur  l'évolution  des  cancers
+__label__Ministre_de_la_Justice Présomption  d'innocence  et  secret  d'instruction
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Transport  scolaire
+__label__Ministre_des_Finances Projet  au  château  de  Sanem
+__label__Ministre_de_l'Education_nationale Rémunérations  du  personnel  des  écoles  privées
+__label__Premier_Ministre Installation  de  la  "Maison  de  la  Grande  Région"
+__label__Ministre_de_l'Education_nationale Citizens  Commissions  on  Human  Rights
+__label__Ministre_de_la_Santé Foyer  de  Covid-19  dans  un  grand  abattoir  en  Allemagne
+__label__Ministre_des_Finances Augmentation  des  accises  sur  les  carburants
+__label__Ministre_de_l'Intérieur Introduction  d'une  "taxe  à  la  source"
+__label__Ministre_de_l'Intérieur Enregistrement  obligatoire  des  entreprises  dans  le  registre  communal
+__label__Ministre_de_l'Intérieur Financement  des  services  publics  d'incendie
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Sécurisation  de  la  route  nationale  E421  et  du  CR359
+__label__Ministre_de_la_Justice Lutte  contre  la  toxicomanie  en  milieu  carcéral
+__label__Ministre_des_Finances Assurance  contre  les  catastrophes  naturelles
+__label__Ministre_de_l'Intérieur Accidents  routiers  sous  influence  de  drogues
+__label__Ministre_des_Finances Vente  d'actions  de  Cargolux  à  un  investisseur  qatari
+__label__Ministre_des_Finances Echelle  mobile  des  salaires  et  traitements
+__label__Premier_Ministre Accord  des  Etats  membres  de  l'Union  européenne  avec  le  Royaume-Uni
+__label__Ministre_de_la_Santé Rupture  de  stock  de  médicaments
+__label__Ministre_de_la_Santé Hépatite
+__label__Ministre_de_la_Sécurité_sociale Individualisation  des  droits  à  pension
+__label__Premier_Ministre Accès  des  autorités  américaines  à  des  informations  bancaires
+__label__Ministre_de_la_Santé Congé  payé  en  cas  de  fausse  couche
+__label__Ministre_de_l'Intérieur Finances  communales
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Covoiturage
+__label__Ministre_de_l'Education_nationale Nouvelle  direction  du  Service  de  la  formation  professionnelle
+__label__Ministre_de_l'Education_nationale "Girls'  Day  -  Boys'  Day"
+__label__Ministre_de_l'Intérieur Création  d'une  police  anti-émeute  européenne
+__label__Ministre_de_la_Justice Certificat  de  décès
+__label__Ministre_de_l'Education_nationale Langue  nationale
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Incident  entre  un  avion  et  une  camionnette  à  l'aéroport  de  Luxembourg
+__label__Ministre_de_l'Education_nationale Intégration  d'enfants  handicapés  dans  l'enseignement  primaire  et  secondaire
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Conseillers  climat
+__label__Ministre_de_la_Justice Autorisations  de  résidence  pour  artistes  de  cabaret
+__label__Ministre_de_la_Santé Frais  de  postcure  de  malades  affectés  de  troubles  alimentaires
+__label__Ministre_de_l'Intérieur Avertissements  taxés  dans  la  circonscription  régionale  de  Capellen
+__label__Ministre_de_l'Intérieur Lignes  de  bonne  conduite  administrative  dans  le  secteur  communal
+__label__Ministre_de_la_Santé Sécurité  alimentaire
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Transport  d'armes  à  sous-munitions  via  l'aéroport  de  Luxembourg
+__label__Ministre_de_l'Education_nationale Nomination  des  stagiaires-professeurs
+__label__Ministre_de_la_Santé Remboursement  des  vaccinations  contre  les  maladies  tropicales
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Ligne  ferroviaire  du  Nord
+__label__Ministre_de_la_Santé Langue  luxembourgeoise  dans  les  hôpitaux
+__label__Ministre_de_la_Justice Numéro  d'urgence  pour  les  victimes  de  pédophilie  lancé  par  l'Eglise  catholique  luxembourgeoise
+__label__Ministre_de_la_Santé Troubles  de  l'apprentissage
+__label__Ministre_de_la_Santé Traitements  de  données  à  caractère  personnel  des  personnes  atteintes  de  la  Covid-19
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Affectation  à  moyen  et  à  long  terme  du  site  universitaire  actuel  "Campus  Walferdange"
+__label__Ministre_de_la_Justice Arrestations  de  vendeurs  de  drogue  en  2015
+__label__Ministre_de_la_Justice Reconnaissance  des  mariages  homosexuels  conclus  à  l'étranger
+__label__Ministre_de_l'Education_nationale Le  correcteur  informatique  luxembourgeoisCortina  Spell  Checker
+__label__Ministre_des_Finances Tensions  entre  les  États-Unis  et  la  Turquie
+__label__Ministre_de_la_Santé Etiquetage  nutritionnel  des  aliments
+__label__Ministre_de_la_Justice Service  d'Aide  aux  Victimes  d'infractions  pénales
+__label__Ministre_des_Finances Statistiques  concernant  les  mesures  nouvellement  introduites  en  matière  de  crédit  d'impôt
+__label__Ministre_de_la_Santé Responsabilité  dans  le  cas  d'un  accident  nucléaire
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Vente  d'appartements  par  le  Fonds  de  rénovation  de  la  Vieille  Ville
+__label__Ministre_de_la_Justice Problèmes  liés  au  transsexualisme
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Création  d'une  liaison  ferroviaire  entre  les  villes  de  QuattroPole
+__label__Ministre_de_la_Santé Laboratoire  national  de  Santé
+__label__Ministre_de_la_Santé Publication  du  rapport  Bernheim  sur  la  prise  en  charge  médicale  et  psychiatrique  de  la  population  carcérale
+__label__Ministre_de_l'Education_nationale "Enfants  surdoués"
+__label__Ministre_de_la_Santé Vente  de  "produits  du  tabac"  dans  les  stations-services
+__label__Ministre_des_Finances Réaffectation  des  anciennes  agences  de  la  BCEE
+__label__Ministre_des_Finances Programme  de  soutien  public  à  l'investissement
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Loi  relative  à  la  chasse
+__label__Ministre_de_l'Education_nationale Recrutement  d'instituteurs  spécialisés  dans  la  scolarisation  des  élèves  à  besoin  spécifiques
+__label__Ministre_de_la_Sécurité_sociale Création  d'emplois  au  Luxembourg
+__label__Premier_Ministre Association  des  Cadres  Fonctionnaires  de  l'Administration  Gouvernementale
+__label__Premier_Ministre Accueil  de  réfugiés  albanais
+__label__Ministre_de_la_Justice Traducteurs/interprètes  assermentés
+__label__Ministre_de_l'Education_nationale Scolarisation  des  enfants  atteints  de  dysphasie
+__label__Ministre_des_Finances Esquisse  de  réforme  fiscale  présentée  mercredi  dernier  par  le  président  américain
+__label__Ministre_de_la_Santé Utilisation  de  seringues  efficaces  pour  la  vaccination  contre  la  Covid-19
+__label__Ministre_des_Finances Épargne-logement
+__label__Ministre_de_la_Justice Programme  EQUAL
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Déchets  de  construction
+__label__Ministre_des_Finances "Green  bonds"
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Modernisation  de  la  ligne  ferroviaire  Bruxelles  -  Luxembourg
+__label__Ministre_de_la_Santé Résidus  de  drogue  dans  les  eaux  usées
+__label__Premier_Ministre État  fédéral  à  quatre  composantes  (Wallonie,  Bruxelles,  Communauté  germanophone  et  le  Grand-  Duché  de  Luxembourg)
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Assainissement  de  l'Aéroport  au  Findel
+__label__Ministre_de_la_Santé Cas  de  tuberculose  au  sein  de  la  prison
+__label__Ministre_de_la_Sécurité_sociale Service  de  blanchisserie  dans  les  maisons  de  soins
+__label__Premier_Ministre Réorganisation  des  structures  administratives  de  la  Commission  Européenne
+__label__Ministre_des_Finances Contrôles  effectués  par  l'Administration  des  Douanes  belge
+__label__Ministre_de_la_Santé Recommandations  pour  la  vaccination  de  la  "STIKO"
+__label__Ministre_de_la_Santé Service  d'urgence  au  Centre  Hospitalier  du  Nord  à  Wiltz
+__label__Ministre_de_la_Justice Avis  de  marché  de  l'Administration  des  établissements  pénitentiaires  concernant  la  fourniture  de  produits  laitiers  et  crèmerie
+__label__Ministre_de_l'Education_nationale Exportabilité  des  chèques-services  aux  frontaliers
+__label__Premier_Ministre Annulation  de  l'exposition  "la  Petite  Guerre  -  le  Luxembourg  entre  1914-1919"
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Installation  de  défibrillateurs  semi-automatiques  dans  les  trains
+__label__Ministre_de_la_Justice Divorce  prononcé  par  l'officier  de  l'Etat  civil
+__label__Ministre_de_la_Santé Installation  des  services  du  Ministère  et  de  la  Direction  de  la  Santé  dans  la  Villa  Louvigny
+__label__Ministre_des_Finances Chèque  repas
+__label__Ministre_de_l'Intérieur Pollutions  bactériennes  de  l'eau  potable
+__label__Ministre_de_la_Justice Présence  de  détenus  sur  la  toiture  du  Centre  pénitentiaire  de  Luxembourg  (CPL)
+__label__Ministre_de_l'Education_nationale Demandes  de  stages  dans  l'enseignement  fondamental  ou  secondaire
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Procédures  engagées  en  cas  d'alerte  météorologique
+__label__Ministre_de_la_Sécurité_sociale Remboursement  frais  d'ambulance
+__label__Ministre_de_l'Education_nationale "Démasculination"  de  la  langue  française
+__label__Ministre_de_la_Justice Enquêtes  disciplinaires  contre  des  préposés  forestiers
+__label__Ministre_de_la_Justice Etude  sur  la  double  nationalité
+__label__Premier_Ministre Introduction  d'une  heure  de  sport  scolaire  supplémentaire
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Démission  de  la  directrice  de  la  Direction  de  l'Aviation  civile  de  la  présidence  du  conseil  d'administration  de  l'Agence  luxembourgeoise  pour  la  sécurité  aérienne
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Achat  d'Unités  de  quantité  attribuées  (Assigned  Amount  Unit  -  AAU)  en  Estonie  fortement  critiquées  par  les  ONGs  et  communément  désignées  par  «  Certificats  hot  air  »
+__label__Ministre_des_Finances Prix  de  l'immobilier
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Trafic  sur  la  N7
+__label__Premier_Ministre Transparence  des  informations  relatives  aux  subventions  et  conventions  entre  l'Etat  et  d'autres  entités  associatives
+__label__Ministre_de_la_Santé Ordonnance  relative  aux  tests  Covid-19  dans  les  structures  d'hébergement  pour  personnes  âgées  et/ou  hautement  vulnérables
+__label__Ministre_de_la_Santé Centre  de  prise  en  charge  des  violences  sexuelles
+__label__Ministre_de_la_Justice Vidéosurveillance  en  prison
+__label__Ministre_de_l'Education_nationale Rentrée  scolaire
+__label__Ministre_de_l'Education_nationale Échanges  individuels  dans  le  cadre  des  bilans  intermédiaires
+__label__Ministre_de_la_Santé Soins  à  domicile
+__label__Ministre_des_Finances Musée  de  la  Police
+__label__Ministre_de_la_Justice Centre  national  de  tactique  policière  (CNTP)
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Desserte  des  gares  de  Munsbach  et  de  Wecker
+__label__Ministre_de_la_Santé Officialisation  d'un  nouveau  traitement  à  l'attention  des  personnes  atteintes  de  Parkinson
+__label__Ministre_des_Finances Rapport  "Banques  en  exil  comment  les  grandes  banques  européennes  profitent  des  paradis  fiscaux"  de  l'ONG  Oxfam  et  du  réseau  Fair  Finance  Guide  International
+__label__Ministre_de_l'Education_nationale Scolarisation  d'enfants  présentant  un  handicap
+__label__Ministre_des_Finances Réforme  du  contrôle  des  concentrations
+__label__Ministre_de_l'Education_nationale asbl  «Schrëtt  fir  Schrëtt»
+__label__Ministre_de_la_Justice Noms  et  prénoms  figurant  sur  les  titres  de  voyage,  cartes  d'identité  et  autres  documents  de  l'Etat  civil
+__label__Ministre_de_l'Intérieur Intégration  des  salariés  handicapés  dans  le  secteur  public
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Moulin  Bestgen  à  Schifflange
+__label__Premier_Ministre Commémorations
+__label__Ministre_des_Finances Fiscalité  des  personnes  morales
+__label__Premier_Ministre Société  américaine  Netflix
+__label__Ministre_des_Finances Fonds  d'investissement
+__label__Ministre_des_Finances Implication  d'un  cabinet  de  conseil  dans  le  screening  des  dépenses  de  l'Etat
+__label__Ministre_de_l'Education_nationale Engagement  de  150  enseignants  spécialisés  au  sein  de  l'enseignement  fondamental
+__label__Ministre_des_Finances Listes  noire  et  grise  des  juridictions  de  pays  tiers  de  l'UE  à  des  fins  fiscales
+__label__Ministre_de_la_Justice Législation  concernant  les  débits  de  boissons
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Schéma  stratégique  de  mobilité  transfrontalière  (SMOT)
+__label__Ministre_de_la_Santé Test  tuberculinique  dans  le  cadre  de  l'examen  prénuptial
+__label__Ministre_de_la_Santé Victimes  de  la  Covid-19  vivant  dans  des  structures  pour  personnes  âgées
+__label__Ministre_de_la_Santé Laboratoire  national  de  santé
+__label__Ministre_de_l'Education_nationale Changements  dans  le  monde  du  travail
+__label__Ministre_des_Finances Taux  d'intérêt
+__label__Ministre_de_l'Intérieur Contrôle  de  sécurité  effectif  au  centre  pénitentiaire  de  Schrassig
+__label__Ministre_de_l'Intérieur Carte  d'identité  électronique
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Trafic  routier  au  niveau  du  rond-point  Robert  Schaffner  dit  "Irrgarten"
+__label__Ministre_de_l'Education_nationale Lycée  pilote  au  Sud  du  pays
+__label__Premier_Ministre Circulaire  du  Ministère  de  l'Intérieur  se  prononçant  sur  le  calcul  de  l'allocation  de  fin  d'année
+__label__Ministre_de_l'Education_nationale Heures  éducatives  supplémentaires  pour  un  enfant  à  besoins  spéciaux
+__label__Ministre_des_Finances Private  Banking
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Pont  sur  la  Sûre  près  de  Goebelsmühle  (CR348)
+__label__Ministre_des_Finances Nouvel  échelon  B6  chez  l'impôt  foncier
+__label__Ministre_de_la_Santé Campagne  de  dépistage  de  la  Covid-19
+__label__Ministre_de_l'Education_nationale Couvent  de  Cinqfontaines
+__label__Ministre_de_l'Intérieur Criminalité  transfrontalière
+__label__Ministre_des_Finances "Groupement  autonome  de  personnes"
+__label__Ministre_de_l'Intérieur Ligne  éditoriale  pour  les  bulletins  communaux
+__label__Ministre_des_Finances Utilisation  de  produits  phytosanitaires  sur  les  terrains  de  l'État
+__label__Premier_Ministre Réaction  du  porte-parole  du  Premier  Ministre  à  une  question  parlementaire
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Etat  d'avancement  de  la  nouvelle  bibliothèque  nationale,  annoncée  par  Monsieur  le  Premier  Ministre  dans  sa  déclaration  du  5  mai  2010
+__label__Ministre_des_Finances Imposition  des  plus-values  venant  de  la  vente  d'un  immeuble  prévu  pour  la  location
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Imposition  forfaitaire  sur  les  entreprises  de  réseau  (IFER)
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Port  de  plaisance  à  Schwebsingen
+__label__Ministre_des_Finances Droits  d'accises
+__label__Ministre_de_la_Sécurité_sociale Investissements  du  Fonds  de  compensation  auprès  d'Electricité  de  France
+__label__Ministre_des_Finances Applications  de  "trading"
+__label__Ministre_de_l'Education_nationale Plan  d'action  structuré  pour  la  scolarisation  des  enfants  étrangers
+__label__Ministre_de_la_Sécurité_sociale Médecin  de  contrôle
+__label__Ministre_des_Finances Répercussions  du  plafonnement  de  l'indexation  automatique  sur  les  recettes  fiscales
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Site  de  la  Société  nationale  de  contrôle  technique  dans  la  commune  de  Kiischpelt
+__label__Ministre_de_la_Santé Reclassement  du  cannabidiol  (CBD)
+__label__Ministre_de_la_Santé Transferts  de  patients  à  des  centres  de  phlébologie  étrangers
+__label__Ministre_de_la_Sécurité_sociale Remboursement  des  dispositifs  médicaux
+__label__Ministre_de_la_Justice Mouvement  anarchiste  Anarchist  Black  Cross  Luxembourg  (ABC  Luxembourg)
+__label__Ministre_de_la_Sécurité_sociale Représentation  du  Taiwan  à  l'Organisation  mondiale  de  la  Santé  (OMS)
+__label__Ministre_de_la_Justice Test  de  langue  luxembourgeoise
+__label__Premier_Ministre Extension  et  modernisation  du  Centre  de  conférences  à  Luxembourg
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Travaux  de  finalisation  de  la  "Nordstrooss"
+__label__Ministre_de_la_Justice Vente  aux  enchères  d'un  nouveau-né  sur  internet
+__label__Ministre_des_Finances Echange  automatique  d'informations  en  matière  d'impôts
+__label__Ministre_de_la_Justice Base  légale  pour  les  contrôles  de  vitesse
+__label__Ministre_de_la_Justice Campagnes  d'informations  du  gouvernement
+__label__Ministre_des_Finances Dépôts  garantis  en  cas  d'insolvabilité  d'une  banque
+__label__Ministre_de_la_Santé Qualité  des  eaux  de  la  Moselle
+__label__Ministre_de_l'Education_nationale Gratuité  des  manuels  scolaires
+__label__Ministre_de_la_Justice Le  concept  de  double  peine
+__label__Premier_Ministre Augmentation  du  capital  de  la  Banque  centrale  du  Luxembourg
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Décharges  de  déchets  inertes
+__label__Ministre_des_Finances Incidences  sur  le  budget  de  l'Etat  du  report  en  mars  2015  de  la  tranche  indiciaire  prévue  en  octobre  2014
+__label__Premier_Ministre Annulation  d'une  table-ronde  au  Musée  national  de  la  résistance  à  Esch-sur-Alzette
+__label__Premier_Ministre Participation  des  personnes  non  luxembourgeoises  aux  élections  communales
+__label__Ministre_de_la_Santé Quote-part  des  femmes  dans  le  secteur  de  la  santé
+__label__Ministre_de_l'Intérieur Eligibilité  pour  les  élections  communales
+__label__Ministre_des_Finances Exposition  canine
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Contournement  de  Hosingen
+__label__Ministre_de_la_Santé Concentration  du  gaz  "Radon"
+__label__Ministre_de_la_Sécurité_sociale Remboursement  des  dépenses  médicales  des  ouvriers  de  la  GOODYEAR  par  la  filiale  CNAMO
+__label__Ministre_de_la_Santé Brochure  distribuée  par  le  Ministère  de  la  Santé  sur  l'alimentation  des  enfants
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Fermeture  de  certains  guichets  de  gare  à  travers  le  pays
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Ancienne  Maison  de  retraite  de  Vianden
+__label__Ministre_des_Finances \
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Vente  aux  enchères  de  logements  sur  l'îlot  de  l'ancien  palais  de  Justice  à  Luxembourg-Ville
+__label__Ministre_de_la_Santé Stratégie  de  prévention  du  gouvernement  dans  la  lutte  contre  les  phénomènes  de  la  société
+__label__Ministre_de_la_Sécurité_sociale Convergence  des  régimes  de  pension
+__label__Ministre_de_la_Santé Interventions  chirurgicales  assistées  par  robot
+__label__Ministre_de_la_Santé Tarif  horaire  uniforme  pour  les  médecins  dans  le  cadre  de  la  pandémie  du  coronavirus
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Allumage  permanent  des  feux  de  croisement  des  voitures  comme  il  est  le  cas  déjà  le  cas  dans  de  nombreux  autres  pays  européens
+__label__Ministre_des_Finances Arrêt  du  "Bundesgerichtshof"  concernant  les  frais  de  dossier  bancaires
+__label__Ministre_de_l'Education_nationale Formation  professionnelle
+__label__Ministre_de_la_Santé Accouchements  prématurés
+__label__Ministre_des_Finances Comptes  courants  de  l'administration  des  Contributions  directes
+__label__Ministre_de_la_Santé Centres  de  tests  du  large  scale  testing
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Rénovation  de  l'ancien  CIPA  à  Sanem
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Nouveau  giratoire  à  Marnach
+__label__Ministre_des_Finances Spéculation  financière  dans  le  domaine  du  logement,
+__label__Premier_Ministre "Gouvernement  économique  européen"
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Travaux  dans  la  rue  de  Mersch  à  Larochette
+__label__Ministre_de_l'Education_nationale Exécution  du  "Zukunftspak"
+__label__Ministre_de_l'Education_nationale Gestion  des  services  et  prestations  dans  les  cantines  scolaires
+__label__Ministre_des_Finances Contribution  de  crise
+__label__Ministre_de_la_Justice Décisions  du  tribunal  de  famille  non  respectées  après  un  divorce
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Elargissement  de  la  B7  entre  Colmar-Berg  et  Erpeldange/Sûre
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Hangar  de  la  Luxembourg  Air  Rescue
+__label__Ministre_de_l'Intérieur Statistiques  d'Interpol  pour  l'année  1999
+__label__Ministre_de_la_Santé Vaccin  contre  les  infections  à  HPV  (anti-Papillomavirus  Humain)
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Contournements  de  Heinerscheid  et  de  Hosingen
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Futur  des  gares  périphériques  prévues  par  les  concepts  de  mobilité  intégrée  "mobiliteit.lu"  et  "Mobil  2020"
+__label__Ministre_des_Finances Blocage  de  virements  en  relation  avec  Cuba
+__label__Premier_Ministre Congé  collectif
+__label__Ministre_de_la_Sécurité_sociale Modalités  de  convocation  et  de  la  prise  de  rendez-vous  des  personnes  vulnérables  au  Contrôle  médical  de  la  Sécurité  sociale
+__label__Ministre_de_l'Education_nationale Formulaire  en  ligne  "Formstack"
+__label__Ministre_des_Finances Eurogroupe
+__label__Ministre_des_Finances Saisies  de  drogues
+__label__Premier_Ministre Budget  de  la  Grèce  et  position  de  la  Banque  centrale  européenne
+__label__Ministre_de_la_Justice Plan  volontaire  d'insertion
+__label__Ministre_de_l'Education_nationale Concours  de  recrutement  du  personnel  enseignant  de  l'enseignement  postprimaire
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Stratégie  du  Gouvernement  concernant  la  Cargolux  et  une  augmentation  éventuelle  du  capital  de  cette  société
+__label__Ministre_de_la_Justice Modifications  apportées  au  site  internet  "Legilux"
+__label__Ministre_de_la_Santé Libre  circulation  à  l'extérieur  des  personnes  internées  au  Centre  hospitalier  neuro-psychiatrique  d'Ettelbrück  (CHNP)
+__label__Ministre_des_Finances Futur  siège  de  l'Autorité  bancaire  européenne  (ABE)
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Transports  en  commun  par  trains  en  soirée  et  durant  la  nuit
+__label__Ministre_de_la_Santé Remboursement  des  frais  de  la  piqûre  péridurale
+__label__Ministre_des_Finances Corruption  auprès  de  l'Administration  des  Douanes  et  Accises
+__label__Ministre_des_Finances Projet  relatif  au  Château  de  Schengen
+__label__Ministre_de_la_Sécurité_sociale Antennes  mobiles  du  service  d'aide  médicale  urgente  (SAMU)
+__label__Ministre_de_l'Intérieur Dressage  de  contraventions  pour  stationnement  interdit  à  Esch-sur-Alzette
+__label__Ministre_de_l'Education_nationale Travaux  d'extension  du  Lycée  technique  de  Bonnevoie
+__label__Ministre_de_la_Justice Textes  révisionnistes,  racistes  et  xénophobes  publiés  sur  un  site  internet  et  diffusés  par  tractes
+__label__Ministre_de_la_Santé Indemnisation  des  médecins  inscrits  à  la  formation  spécifique  en  médecine  générale
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Electromobilité
+__label__Premier_Ministre L'accès  Internet  dans  les  écoles
+__label__Ministre_de_la_Justice Organisation  de  cours  de  langue  luxembourgeois  pour  avocats-stagiaires
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Projets  du  Mécanisme  de  développement  propre  (MDP)
+__label__Ministre_de_la_Santé Mesures  de  prévention  contre  la  légionellose
+__label__Ministre_de_la_Justice Exercice  de  la  profession  d'avocat  au  Luxembourg
+__label__Ministre_de_l'Education_nationale Revendications  d'un  syndicat  d'enseignants  au  niveau  de  la  gestion  de  la  lutte  contre  la  Covid-19  dans  le  milieu  scolaire
+__label__Ministre_de_la_Santé Enseignement  de  réintégration  dans  la  vie  professionnelle
+__label__Ministre_de_la_Justice Phénomène  du  "stalking"
+__label__Ministre_de_la_Justice Tourisme  de  la  drogue
+__label__Ministre_de_la_Justice Taux  de  récidive  au  sein  du  Centre  pénitentiaire  de  Luxembourg  à  Schrassig
+__label__Ministre_de_la_Justice Mise  en  oeuvre  de  la  loi  du  23  octobre  2008  sur  l'acquisition  de  la  nationalité  luxembourgeoise
+__label__Ministre_de_l'Intérieur Cérémonies  civiles
+__label__Ministre_de_la_Santé Rejets  de  la  centrale  nucléaire  de  Cattenom
+__label__Ministre_de_l'Education_nationale Agrément  à  accorder  aux  gestionnaires  de  services  d'éducation  et  d'accueil  pour  enfants
+__label__Ministre_de_l'Intérieur Entretien  des  pistes  cyclables
+__label__Ministre_des_Finances Hausse  des  frais  bancaires
+__label__Ministre_des_Finances Croissance  économique
+__label__Ministre_de_l'Education_nationale Mineurs  radicalisés  en  fin  de  cycle  de  l'enseignement  fondamental
+__label__Premier_Ministre Soutien  de  campagnes  électorales  à  l'étranger
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Structure  d'accueil  d'urgence
+__label__Ministre_de_l'Intérieur Confection  des  nouveaux  uniformes  de  la  police  grand-ducale
+__label__Ministre_de_la_Santé Cigarette  électronique
+__label__Ministre_de_la_Santé Elèves  atteints  de  diabète  du  type  1
+__label__Ministre_de_la_Justice Immigration  irrégulière  chinoise
+__label__Ministre_de_l'Education_nationale Concept  "Bewegte  Schule  und  Maisons  relais"
+__label__Ministre_de_la_Santé Scories  radioactives  sur  les  sites  de  la  société  CASA  à  Beggen  et  Esch-Lallange
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Émission  de  particules  fines  PM10
+__label__Ministre_de_l'Education_nationale Instruction  religieuse  et  morale
+__label__Ministre_des_Finances Paquet  de  mesures  conjoncturelles
+__label__Ministre_des_Finances Recettes  TVA
+__label__Ministre_de_la_Santé Reconnaissance  des  diplômes  des  étudiants  en  médecine
+__label__Ministre_des_Finances Non-double  imposition  franco-luxembourgeoise
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Critères  linguistiques  d'embauche  de  Luxtram  S.A.
+__label__Ministre_des_Finances Taux  d'imposition  maximal  sur  le  revenu
+__label__Premier_Ministre Construction  d'édifices  religieux
+__label__Ministre_des_Finances Acompte  sur  le  paiement  des  dividendes  Arcelor-Mittal
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Nouveaux  horaires  de  la  ligne  30  Luxembourg  -  Wasserbillig
+__label__Ministre_des_Finances Réorganisation  des  bureaux  de  l'Administration  de  l'Enregistrement  et  des  Domaines
+__label__Ministre_de_la_Justice Prévention  d'accès  de  folie  meurtrière,  de  prises  d'otages  et  d'attentats
+__label__Ministre_de_la_Justice Cours  de  langue  luxembourgeoise  dans  le  cadre  de  la  loi  sur  la  nationalité  luxembourgeoise
+__label__Ministre_de_l'Education_nationale Cours  d'appui
+__label__Premier_Ministre Emoluments  touchés  par  les  administrations  représentant  l'Etat  ou  une  personne  de  droit  public  dans  une  société  anonyme
+__label__Premier_Ministre Monument  national  pour  la  Mémoire  de  la  Shoah
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Modifications  au  niveau  du  Code  de  la  route  concernant  les  cyclistes  qui  entreront  en  vigueur  le  1er  mai  2018
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Construction  d'un  nouveau  bâtiment  pour  les  Archives  nationales
+__label__Ministre_de_la_Santé Tuberculose
+__label__Ministre_de_l'Education_nationale Instruction  religieuse  dans  le  cycle  supérieur  de  l'enseignement  secondaire
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Mise  en  place  de  radars  automatiques
+__label__Ministre_des_Finances Campagnes  de  sensibilisation  EURO
+__label__Ministre_des_Finances Révision  des  accords  internationaux  impliquant  un  transfert  de  données  à  caractère  personnel  vers  des  pays  tiers
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Goudronnage  à  l'aide  de  gravier
+__label__Ministre_de_la_Sécurité_sociale Coût  des  prothèses  dentaires
+__label__Ministre_de_la_Santé Plan  cancer
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Gare  de  Bettembourg
+__label__Ministre_de_la_Santé Acquisition  de  nouveaux  terrains  dans  les  alentours  de  la  centrale  nucléraire  de  Cattenom  par  EDF
+__label__Ministre_de_la_Sécurité_sociale Système  de  pension
+__label__Ministre_des_Finances Contrôles  de  diesel
+__label__Ministre_de_l'Intérieur Parc  éolien  à  Burden
+__label__Ministre_de_la_Santé Reclassement  de  la  carrière  de  l'infirmier  dans  la  fonction  publique
+__label__Ministre_de_la_Justice Service  de  Protection  de  la  Jeunesse
+__label__Ministre_des_Finances Nouvelle  station-service  à  hauteur  de  Pontpierre  sur  l'autoroute  A4
+__label__Ministre_de_la_Justice Vente  publique  par  soumission  de  revolvers  Smith  &  Wesson  de  la  Police  grand-ducale
+__label__Ministre_des_Finances Paiement  tardif  des  rémunérations  des  agents  de  l'État
+__label__Ministre_de_la_Justice Détenus  mineurs
+__label__Ministre_de_la_Justice Présence  de  centres  d'intervention  de  la  Police  grand-ducale
+__label__Ministre_de_la_Justice Garantie  bancaire  à  déposer  par  les  indépendants  ressortissants  d'un  pays  tiers
+__label__Ministre_de_la_Justice Propositions  du  comité  de  surveillance  du  SIDA
+__label__Ministre_des_Finances Critères  de  l'OCDE  en  matière  d'échange  de  renseignements  à  des  fins  fiscales
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Motocyclistes
+__label__Ministre_de_la_Justice Patrimoine  du  Musée  National  d'Histoire  Militaire
+__label__Ministre_de_l'Intérieur Directive  européenne  "marchés  publics  de  travaux"
+__label__Ministre_de_l'Intérieur Utilisation  de  feux  bleus  clignotants  par  les  médecins  dans  des  cas  d'urgence
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Avenir  du  site  "Campus  Walferdange"
+__label__Ministre_de_la_Santé Classement  des  femmes  enceintes  comme  personne  vulnérable  dans  le  cadre  de  la  pandémie  de  la  Covid-19
+__label__Ministre_de_la_Sécurité_sociale Remboursement  des  psychothérapies
+__label__Ministre_de_l'Education_nationale Nécessité  d'un  internat  autonome  à  Ettelbruck
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Accidents  de  la  route  impliquant  la  collision  avec  un  arbre
+__label__Ministre_de_l'Education_nationale Application  d'apprentissage  "GraphoLearn"
+__label__Ministre_de_la_Santé Médecins  pratiquant  l'acupuncture  ou  l'homéopathie
+__label__Ministre_de_l'Education_nationale Infrastructure  scolaire  de  la  Nordstad
+__label__Ministre_de_la_Justice Régime  applicable  aux  artistes  de  cabaret
+__label__Ministre_de_la_Justice Registre  des  bénéficiaires  effectifs
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Convention  collective  de  Luxair
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Scandale  "Volkswagen"
+__label__Ministre_de_l'Intérieur Le  régime  des  marchés  publics  de  travaux  et  de  fournitures
+__label__Ministre_de_la_Santé Remise  de  questionnaires  aux  parents  d'élèves
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Eaux  usées  de  la  décharge  du  SIDEC  à  Friddhaff
+__label__Ministre_de_la_Sécurité_sociale Révision  des  nomenclatures  afférentes  à  l'activité  extrahospitalière
+__label__Ministre_des_Finances Echange  d'informations  fiscales  entre  le  Luxembourg  et  les  Etats-Unies
+__label__Ministre_de_la_Justice Transfert  et  traitement  des  données  des  dossiers  passagers  aériens
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Procédure  d'autorisation  des  forages  pour  l'alimentation  du  chauffage  d'une  maison  unifamiliale
+__label__Ministre_de_l'Education_nationale Fermeture  du  Centre  Héliar  à  Weilerbach
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Abonnement  annuel  "Jumbokaart"  pour  les  étudiants  âgés  de  plus  de  21  ans
+__label__Ministre_de_la_Justice Regroupement  familial
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Contournement  de  Alzingen  et  Hesperange
+__label__Ministre_de_la_Santé Contamination  des  poulets  par  campylobacter
+__label__Ministre_de_la_Santé Constitution  de  la  Fondation  "Institut  national  de  chirurgie  cardiaque  et  de  cardiologie  interventionnelle"
+__label__Ministre_de_l'Intérieur Fermeture  de  maisons  communales  due  à  l'expansion  du  coronavirus
+__label__Ministre_de_la_Santé Réanimation  cardio-pulmonaire
+__label__Ministre_de_la_Santé Campagne  de  vaccination  dans  les  maisons  de  retraite  et  de  soins
+__label__Ministre_de_la_Justice Accès  aux  décisions  des  autorités  judiciaires
+__label__Ministre_de_l'Education_nationale Cours  de  natation
+__label__Ministre_des_Finances Accises  sur  les  produits  de  tabac
+__label__Ministre_de_l'Intérieur Dénonciations  récemment  faites  au  parquet
+__label__Ministre_des_Finances Fuite  de  capitaux  de  la  Grèce  vers  le  Luxembourg
+__label__Ministre_de_la_Justice Médiation  dans  le  cas  de  divorce
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Service  wi-fi  dans  les  bus  et  les  trains
+__label__Ministre_de_la_Santé Légalisation  de  quatre  méthodes  de  médecine  alternative  (acupuncture,  l'homéopathie,  l'ostéopathie  et  la  chiropraxie)
+__label__Ministre_de_la_Santé Centre  de  radiodiffusion  à  Marnach
+__label__Ministre_de_la_Justice Contrôles  du  taux  d'alcoolémie
+__label__Ministre_de_la_Sécurité_sociale Nomenclature  des  actes  et  services  des  masseurs-kinésithérapeutes  pris  en  charge  par  l'assurance  maladie
+__label__Ministre_de_la_Santé Déclarations  du  Ministre  de  la  Santé  relatives  au  "Krankeschäinautomaten"
+__label__Ministre_de_la_Santé Arrêt  du  réacteur  de  Tihange  1
+__label__Ministre_de_la_Sécurité_sociale Visibilité  du  code  de  diagnostic  sur  les  certificats  d'incapacité  de  travail
+__label__Premier_Ministre Eclatement  éventuel  de  la  zone  euro
+__label__Ministre_de_la_Santé Plan  national  cancer
+__label__Premier_Ministre Incidences  de  la  coopération  entre  le  BND  et  la  NSA  pour  le  Luxembourg
+__label__Ministre_de_la_Sécurité_sociale Prise  en  charge  des  frais  médicaux  et  hospitaliers  des  étrangers  en  situation  irrégulière
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Promotion  de  la  mobilité  durable
+__label__Ministre_des_Finances Capital  de  la  Banque  centrale  du  Luxembourg  (BCL)
+__label__Ministre_de_l'Intérieur Inscription  des  non-luxembourgeois  sur  les  listes  électorales
+__label__Ministre_de_la_Justice Réinsertion  sociale  et  professionnelle  des  condamnés
+__label__Ministre_de_la_Justice Financement  de  projets  culturels  au  centre  pénitentiaire  de  Schrassig
+__label__Ministre_de_l'Education_nationale Diplômes  des  examens  de  fin  d'études
+__label__Ministre_de_l'Education_nationale Aide  aux  devoirs
+__label__Ministre_de_la_Santé Grippe  aviaire
+__label__Ministre_de_la_Santé Retour  de  la  personne  en  fuite  du  Centre  hospitalier  neuro-psychiatrique  d'Ettelbrück  (CHNP)
+__label__Ministre_de_la_Santé Transports  de  déchets  radioactifs
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Horaire  et  trajet  de  la  ligne  d'autobus  N°194  (Sandweiler-Luxembourg-Bettembourg)
+__label__Ministre_de_la_Santé Tests  rapides  dans  le  milieu  sportif
+__label__Ministre_de_la_Sécurité_sociale Elections  sociales  2003
+__label__Ministre_de_la_Justice Droit  de  propriété  des  réfugiés  confrontés  à  une  procédure  d'éloignement
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Incompatibilité  du  réseau  ferroviaire  belge  avec  les  nouvelles  infrastructures  luxembourgeoises
+__label__Ministre_de_l'Education_nationale Révocation  de  l'ancien  directeur  du  Service  de  la  formation  professionnelle
+__label__Ministre_de_l'Intérieur Absence  de  toilettes  pour  chauffeurs  et  chauffeuses  de  bus  aux  terminus
+__label__Ministre_de_la_Justice Protection  des  mineurs
+__label__Premier_Ministre Les  attaques  verbales  de  Mme  Cresson  contre  la  place  financière  de  Luxembourg
+__label__Ministre_de_l'Education_nationale Violence  à  l'école
+__label__Ministre_de_la_Justice Vote  obligatoire
+__label__Ministre_des_Finances Indemnité  spéciale  aux  chefs  de  poste  de  l'Administration  des  Douanes  et  Accises
+__label__Ministre_de_l'Intérieur Confidentialité  des  documents  mis  à  disposition  des  membres  du  conseil  communal
+__label__Ministre_de_l'Education_nationale Evaluation  des  enseignants  (PITAProgramm  for  International  Teachers  Assessment)
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Accès  aux  tables  à  langer  dans  les  locaux  sanitaires  publics
+__label__Ministre_des_Finances Taxation  du  kérosène
+__label__Ministre_de_la_Sécurité_sociale Remboursement  de  transports  en  ambulance
+__label__Ministre_de_la_Santé Service  d'aide  médicale  urgente  (SAMU)
+__label__Ministre_des_Finances Abrogation  du  régime  de  la  propriété  intellectuelle  au  Luxembourg
+__label__Ministre_de_la_Sécurité_sociale Soins  de  santé  transfrontalier
+__label__Ministre_des_Finances Fiscalité  des  entreprises
+__label__Ministre_de_l'Education_nationale Summer  School  2020
+__label__Ministre_de_la_Sécurité_sociale Convention  franco-luxembourgeoise  sur  la  sécurité  sociale  des  travailleurs  frontaliers
+__label__Ministre_de_la_Santé Malformations  chez  les  nouveau-nés
+__label__Ministre_des_Finances Voie  d'accès  sur  l'A13  à  Frisange
+__label__Premier_Ministre Avenir  de  l'ancien  bâtiment  de  l'Arbed
+__label__Ministre_de_la_Santé Vaccins  contre  la  grippe
+__label__Ministre_de_la_Justice Détention  d'armes  à  feu
+__label__Ministre_de_la_Santé Services  d'urgence  d'ophtalmologie
+__label__Ministre_de_l'Intérieur Passeport  ou  carte  d'identité  individuels  obligatoires  pour  enfants
+__label__Ministre_des_Finances Baisse  de  la  TVA  pour  les  entreprises  du  secteur  Horesca
+__label__Ministre_des_Finances Développement  des  monnaies  virtuelles
+__label__Ministre_de_la_Santé Moyens  de  contraception
+__label__Premier_Ministre Anciens  bâtiments  de  l'usine  CERABATI  à  Wasserbillig
+__label__Ministre_de_la_Justice Patrouilles  nocturnes  effectuées  par  des  entreprises  de  sécurité  privée
+__label__Premier_Ministre Demandes  de  démolition
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Lycée  technique  pour  Professions  de  Santé  (LTPS)
+__label__Ministre_des_Finances Répercussions  de  la  fusion  entre  BGL  et  BNP  Paribas  Luxembourg
+__label__Ministre_de_l'Education_nationale Diplôme  de  technicien
+__label__Ministre_de_l'Education_nationale Étude  PISA
+__label__Ministre_des_Finances L'avenir  de  la  zone  euro  et  le  "rapport  des  5  présidents"
+__label__Ministre_de_l'Education_nationale Système  d'alternance  hebdomadaire  dans  l'enseignement
+__label__Ministre_des_Finances Transmission  par  les  banques  des  données  personnelles  de  leurs  clients  à  des  entreprises
+__label__Ministre_de_la_Santé Recherche  médicale  et  clinique
+__label__Ministre_de_la_Santé Prise  en  charge  par  le  secours  aérien
+__label__Ministre_de_l'Education_nationale Parents  de  jour
+__label__Ministre_de_la_Justice Consommation  de  cannabis  à  domicile
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Disque  de  stationnement  électronique
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Abonnements  ferroviaires  transfrontaliers  (Belgique-Luxembourg)
+__label__Ministre_des_Finances Taxe  sur  les  véhicules  automoteurs  -  Tracteurs  agricoles
+__label__Ministre_des_Finances Participations  de  l'Etat
+__label__Ministre_de_la_Santé Risques  liés  aux  tiques
+__label__Ministre_de_l'Intérieur Réorganisation  du  système  informatique  de  la  Police  Grand-Ducale
+__label__Ministre_des_Finances Cryptodevises
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Paiement  des  factures  RGTR  par  le  Ministère  du  Développement  durable  et  des  Infrastructures
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Bus  scolaire  201  (Dudelange  -  Bettembourg  -  campus  "Geesseknäppchen")
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Sécurité  sur  les  pistes  de  l'aéroport  de  Luxembourg
+__label__Ministre_de_la_Sécurité_sociale Système  de  pensions
+__label__Ministre_de_l'Intérieur Taxes  communales  relatives  à  la  gestion  des  déchets
+__label__Ministre_de_la_Santé Achat  d'un  robot  chirurgical  par  l'Hôpital  du  Kirchberg
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Sécurisation  du  rond-point  Gluck
+__label__Ministre_de_la_Sécurité_sociale Pension  d'invalidité  respectivement  indemnité  d'attente  dans  le  contexte  de  la  pandémie  du  coronavirus
+__label__Ministre_de_l'Education_nationale \
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Trafic  sur  les  autoroutes
+__label__Ministre_de_la_Sécurité_sociale Pension  d'orphelin
+__label__Ministre_de_l'Education_nationale Horaires  hebdomadaires  dans  l'enseignement  fondamental
+__label__Premier_Ministre Politique  gouvernementale  en  matière  de  coopération  transfrontalière
+__label__Ministre_de_la_Justice Le  secret  professionnel  dans  le  cadre  de  la  prise  d'otages  à  Wasserbillig
+__label__Ministre_des_Finances Réparations  de  produits
+__label__Ministre_de_la_Justice Nationalité  luxembourgeoise
+__label__Ministre_de_l'Intérieur Formations  spéciales  pour  le  transport  aérien  de  matériel  de  combat  d'incendies
+__label__Ministre_de_l'Intérieur Feux  d'artifice  et  pétards
+__label__Ministre_de_la_Santé Nombre  croissant  de  patients  souffrant  de  démence
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Dédommagement  des  commerçants  à  cause  du  chantier  du  "Tram"
+__label__Ministre_de_la_Santé Maison  médicale  dans  la  région  Est  du  Luxembourg
+__label__Ministre_de_la_Sécurité_sociale Prise  en  charge  du  traitement  de  la  maladie  du  lipoedème  par  la  Caisse  nationale  de  santé
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Feu  couvant  dans  la  déchetterie  du  SIDEC
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Vélodrome  à  Cessange
+__label__Ministre_de_la_Santé Jeu  pathologique
+__label__Ministre_de_la_Justice Protection  des  témoins
+__label__Ministre_de_la_Santé Grippe  porcine
+__label__Ministre_des_Finances Augmentation  du  taux  de  la  TVA  en  2014  et  les  répercussions  sur  les  lois  de  financement
+__label__Ministre_de_la_Santé Masques  de  protection
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Implantation  d'une  usine  de  production  de  laine  de  roche  au  lieu-dit  "Gadderscheier"
+__label__Ministre_de_la_Santé Exposition  au  radon
+__label__Ministre_de_la_Santé Banque  de  données  SUSANA
+__label__Ministre_de_la_Justice Accès  par  les  autorités  américaines  aux  virements  nationaux  et  transfrontaliers
+__label__Ministre_des_Finances Mise  en  oeuvre  de  l'accord  tripartite  du  28  avril  2006
+__label__Ministre_de_l'Intérieur Le  droit  de  grève  du  secteur  communal
+__label__Ministre_de_l'Intérieur Logements  non  occupés
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Travaux  à  l'aire  de  Berchem
+__label__Ministre_de_la_Santé Vaccination  contre  la  Covid-19  chez  les  femmes  enceintes
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Nouveau  site  du  Lycée  technique  du  Centre
+__label__Ministre_de_la_Santé Santé  au  travail
+__label__Premier_Ministre Espionnage  des  lignes  de  communications  par  satellite  et  des  "data  centers"
+__label__Ministre_des_Finances Deuxième  avenant  à  la  Convention  entre  la  France  et  le  Luxembourg  tendant  à  éviter  les  doubles  impositions  et  à  établir  les  règles  d'assistance  administrative  réciproque  en  matière  d'impôts  sur  le  revenu  et  sur  la  fortune
+__label__Ministre_de_la_Sécurité_sociale Programmes  de  médecine  préventive  financés  par  la  CNS
+__label__Ministre_de_la_Santé Sécurité  des  produits
+__label__Ministre_de_la_Santé Traitements  contre  le  cancer
+__label__Ministre_de_la_Santé Effets  secondaires  du  vaccin  contre  le  cancer  du  col  utérin
+__label__Ministre_de_la_Santé Gaspillage  alimentaire
+__label__Ministre_de_la_Santé Cannabidiol  (CBD)
+__label__Ministre_de_l'Intérieur Station  d'épuration  sur  le  site  "Heiderscheidergrund"
+__label__Premier_Ministre Soins  médicaux  en  cas  de  crise
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Sécurité  routière
+__label__Ministre_de_la_Santé Plan  national  Prévention  suicide
+__label__Premier_Ministre Déclarations  du  Ministre  des  Affaires  étrangères  et  européennes  concernant  la  Hongrie
+__label__Ministre_de_l'Intérieur Elections  des  délégués  du  personnel  des  fonctionnaires  et  employés  communaux
+__label__Ministre_de_la_Sécurité_sociale Application  de  la  nouvelle  convention  FHL
+__label__Ministre_de_l'Education_nationale Rythmes  scolaires
+__label__Ministre_de_l'Education_nationale Dispositif  sanitaire  à  trois  niveaux  pour  lutter  contre  la  propagation  de  la  Covid-19  dans  les  écoles
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Ligne  de  bus  215  (Kirchberg-Luxembourg-Bascharage)
+__label__Ministre_de_l'Intérieur Comptes  cachés  de  certaines  fabriques  d'églises
+__label__Premier_Ministre Projets  de  loi  ayant  trait  au  budget  des  recettes  et  dépenses  pour  l'année  2015
+__label__Ministre_de_l'Education_nationale Cours  d'éducation  physique  au  Lycée  Technique  Hôtelier  de  Diekirch
+__label__Ministre_de_la_Santé Création  d'une  Agence  nationale  des  médicaments
+__label__Ministre_de_l'Education_nationale Fréquentation  de  la  nouvelle  section  "sociale"  de  l'enseignement  secondaire  technique
+__label__Ministre_de_l'Education_nationale Pénurie  en  personnel  breveté
+__label__Ministre_de_la_Sécurité_sociale Abus  d'alcool  chez  les  mineurs
+__label__Ministre_de_la_Sécurité_sociale Evaluation  des  dossiers  dans  le  cadre  de  l'assurance  dépendance
+__label__Ministre_de_l'Intérieur Aides  financières  pour  les  entreprises  impactées  par  la  pandémie  de  la  Covid-19
+__label__Ministre_de_la_Justice Abus  sexuels  à  l'égard  des  enfants
+__label__Ministre_de_l'Education_nationale Examen  de  contrôle  médico-sportif
+__label__Ministre_de_l'Education_nationale Implantation  d'un  nouveau  lycée  à    Junglinster
+__label__Ministre_de_l'Intérieur Congé  politique  pour  élus  locaux
+__label__Ministre_de_l'Education_nationale Postes  vacants  au  sein  des  directions  de  l'enseignement  fondamental
+__label__Ministre_de_la_Justice Transports  de  prisonniers
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Installation  de  bornes  électriques
+__label__Ministre_des_Finances Limitation  du  paiement  en  espèces
+__label__Ministre_de_la_Santé L'implantation  d'un  hall  de  musique  rock
+__label__Ministre_de_la_Justice Création  d'une  deuxième  chambre  criminelle
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Projet  Ban  de  Gasperich
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Mesures  à  mettre  en  place  par  rapport  aux  répercussions  potentiellement  néfastes  de  l'usage  d'un  portable  au  volant
+__label__Ministre_de_la_Santé Distribution  du  matériel  médical  pour  les  personnes  dépendantes
+__label__Ministre_de_l'Education_nationale Formation  des  chargés  de  cours  de  l'enseignement  fondamental
+__label__Ministre_de_la_Santé Commercialisation  du  médicament  Viagra
+__label__Ministre_de_la_Justice Article  267bis  du  code  civil  traitant  du  référé  en  matièer  de  divorce
+__label__Ministre_de_la_Sécurité_sociale Affiliation  des  travailleurs  saisonniers  à  une  assurance  de  pension  et  de  maladie
+__label__Ministre_de_la_Santé Test  prénatal  NIFTY
+__label__Ministre_de_la_Santé Problématique  du  radon
+__label__Ministre_de_l'Education_nationale Publicité  pour  un  logiciel  commercial  par  le  Centre  de  gestion  informatique  de  l'éducation  (CGIE)
+__label__Ministre_de_la_Sécurité_sociale Facturation  médicale
+__label__Ministre_de_l'Intérieur Affectation  d'une  indemnité  compensatoire  dans  le  cadre  d'un  plan  d'aménagement  particulier
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Projets  d'infrastructures  prioritaires  le  long  de  la  N7
+__label__Ministre_de_la_Santé Règles  à  observer  par  les  organisateurs  de  festivités  publiques  en  matière  de  protection  de  la  jeunesse
+__label__Ministre_de_la_Justice Uniformes  des  gardiens  du  centre  pénitentiaire  de  Schrassig
+__label__Ministre_de_la_Justice Introduction  d'un  congé  extraordinaire  au  bénéfice  des  personnes  souhaitant  faire  une  déclaration  de  partenariat
+__label__Ministre_des_Finances Baisse  de  la  TVA  perçue  depuis  le  début  de  l'année  2005
+__label__Premier_Ministre Actionnaires  minoritaires  de  RTL  Group
+__label__Ministre_de_la_Santé Nuisances  sonores
+__label__Ministre_des_Finances Réforme  fiscale
+__label__Ministre_de_l'Education_nationale Extension  du  "Homeschooling"
+__label__Ministre_de_l'Education_nationale Cours  de  luxembourgeois
+__label__Ministre_de_la_Santé Risques  sanitaires  liés  aux  terrains  de  foot  synthétiques
+__label__Ministre_de_la_Santé Maisons  médicales
+__label__Ministre_de_la_Sécurité_sociale Situation  déficitaire  des  caisses  de  maladie
+__label__Ministre_de_la_Sécurité_sociale Remboursement  de  la  psychothérapie
+__label__Ministre_de_l'Intérieur Prime  de  régime  militaire
+__label__Premier_Ministre Usage  des  langues  sur  le  site  officiel  du  Gouvernement
+__label__Ministre_de_l'Education_nationale Agression  d'un  enseignant  de  l'enseignement  postprimaire  en  service  par  un  tiers
+__label__Ministre_de_la_Santé Stockage  géologique  de  déchets  nucléaires
+__label__Ministre_de_la_Justice Vols  avec  agression
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Accord  de  coopération  conclu  entre  l'aéroport  de  Zhengzhou  et  celui  de  Francfort-Hahn
+__label__Ministre_de_la_Justice Enfants  accueillis  au  Centre  pénitentiaire  avec  leurs  parents
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Permis  de  conduire  spécifique  pour  les  volontaires  des  corps  de  sapeurs-pompiers
+__label__Ministre_des_Finances Imposition  des  frontaliers  belges
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Appel  d'offre  pour  un  marché  conjoint  de  fourniture  d'électricité  des  bâtiments  publics
+__label__Ministre_de_la_Santé Hôpital  de  la  Congrégation  "Fondation  François-Elisabeth"  à  Luxembourg-Kirchberg
+__label__Ministre_de_la_Santé Service  de  médecine  dentaire  urgente
+__label__Ministre_de_la_Justice Coopération  policière  roumano-luxembourgeoise
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Boîtiers  pour  raccordement  électrique
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Energie  éolienne  "offshore"  et  "onshore"
+__label__Ministre_de_la_Sécurité_sociale Droit  individuel  à  la  pension
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Approvisionnement  en  sel  de  déneigement
+__label__Ministre_de_l'Intérieur Incidents  sur  la  ligne  ferroviaire  Wasserbillig-Luxembourg  survenus  le  16  mars  2019
+__label__Ministre_de_la_Santé Maison  médicale  dans  la  région  Est  du  Luxembourg
+__label__Ministre_de_la_Santé Scandale  des  implants  "Implant  Files"
+__label__Ministre_de_l'Intérieur Réunions  du  collège  des  bourgmestre  et  échevins
+__label__Premier_Ministre Espionnage  des  communications  électroniques  luxembourgeoises  grâce  aux  programmes  secrets  PRISM  et  TEMPORA
+__label__Ministre_de_la_Santé Etat  des  bâtiments  "La  petite  Marquise"  à  Echternach
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Radars  tronçon
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Réalisation  de  différents  "Park&Ride"
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Trains  surchargés  lors  des  heures  de  pointe
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Elargissement  de  la  B7
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Suppression  de  trois  passages  à  niveau  à  Schifflange
+__label__Ministre_de_la_Santé Infirmiers
+__label__Ministre_de_la_Justice Infractions  de  roulage  impunies
+__label__Ministre_de_la_Justice Poursuites  judiciaires  au  niveau  de  la  coopération  transfrontalière  en  matière  d'infractions  au  Code  de  la  Route
+__label__Ministre_de_la_Justice Comité  européen  pour  la  prévention  de  la  torture  et  des  peines  ou  traitements  inhumains  ou  dégradants  (CPT)
+__label__Ministre_de_la_Santé Troubles  psychologiques
+__label__Ministre_du_Développement_durable_et_des_Infrastructures "Carsharing"
+__label__Ministre_de_l'Intérieur Plan  d'aménagement  général
+__label__Ministre_des_Finances Exécution  du  budget  de  l'État  pour  l'exercice  2014
+__label__Ministre_de_la_Justice Commissions  des  loyers  et  accès  à  la  justice
+__label__Ministre_de_l'Education_nationale Interventions  à  l'école  de  personnalités  du  monde  politique
+__label__Ministre_de_la_Justice Difficultés  d'exercer  correctement  la  profession  de  médecin  au  Centre  Pénitentiaire  de  Schrassig
+__label__Ministre_de_l'Education_nationale Procédure  d'obtention  d'agréments  pour  les  services  d'éducation  et  d'accueil  pour  enfants
+__label__Ministre_des_Finances Impôt  commercial
+__label__Ministre_de_l'Intérieur Organisation  de  manifestations  civiles
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Gratuité  des  transports  publics  pour  les  étudiants
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Nouveaux  modèles  de  développement  pour  le  Grand-Duché
+__label__Premier_Ministre Déclarations  du  Ministre  du  Travail,  de  l'Emploi  et  de  l'Economie  sociale  et  solidaire  concernant  l'Iran
+__label__Ministre_de_la_Justice Placement  des  mineurs  en  section  disciplinaire
+__label__Premier_Ministre Journée  de  la  Commémoration  nationale
+__label__Ministre_de_l'Education_nationale Éventuelle  remise  en  question  de  deux  accords  portant  sur  la  transposition  de  la  réforme  de  la  Fonction  publique  dans  le  secteur  éducatif
+__label__Ministre_des_Finances Baisse  des  avances  pour  l'impôt  commercial  communal
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Chemin  repris  339  reliant  le  village  de  Kalborn  au  lieu-dit  "Tintesmühle"
+__label__Ministre_de_l'Intérieur Recrutement  auprès  des  sapeurs-pompiers
+__label__Ministre_de_la_Justice Durée  moyenne  de  la  procédure  d'accès  à  la  nationalité  luxembourgeoise
+__label__Ministre_de_la_Santé Exécution  du  "Zukunftspak"
+__label__Premier_Ministre Lutte  contre  la  violence
+__label__Ministre_de_la_Santé Etablissement  d'un  plan  "grand  froid"
+__label__Premier_Ministre Application  de  traçage  pour  avertir  les  personnes  ayant  croisé  des  patients  testés  positif  au  Covid19
+__label__Ministre_de_la_Justice Droit  de  préemption
+__label__Ministre_de_la_Santé Abus  de  la  carte  d'identification  de  la  sécurité  sociale
+__label__Ministre_de_la_Santé Délocalisation  de  l'hôpital  du  jour  psychiatrique
+__label__Ministre_des_Finances Trafic  transfrontalier  vers  la  France
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Utilisation  de  la  gare  ferroviaire  dans  le  sous-sol  de  l'Aéroport  de  Luxembourg
+__label__Ministre_des_Finances Impact  du  'White  Paper'  du  Trésor  américain  sur  les  accords  BEPS  (Base  Erosion  Profit  Shifting)
+__label__Ministre_de_la_Justice Manque  de  personnel  au  centre  pénitentiaire  de  Schrassig
+__label__Ministre_de_la_Justice Confiscation  du  périodique  d'un  lycée  à  Esch/Alzette
+__label__Ministre_de_la_Sécurité_sociale Sécurité  à  Ettelbruck
+__label__Ministre_de_la_Justice Protection  internationale
+__label__Ministre_de_la_Santé Information  du  patient
+__label__Ministre_de_la_Santé Conséquences  radiologiques  des  incendies  dans  la  région  de  Tchernobyl
+__label__Ministre_de_l'Education_nationale Élèves  non-résidents
+__label__Ministre_des_Finances Création  d'un  registre  public  des  bénéficiaires  économiques  de  trusts  et  sociétés-écrans
+__label__Premier_Ministre Application  de  la  loi  du  8  juin  1999  sur  le  budget,  la  comptabilité  et  la  trésorerie  de  l'Etat  à  la  Cour  grand-ducale
+__label__Ministre_de_l'Education_nationale Examens  de  rattrapage  des  examens  de  fin  d'études  du  secondaire
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Etudes  préliminaires  concernant  la  création  d'un  lycée  à  Mondorf
+__label__Ministre_de_la_Justice Jeux  de  hasard
+__label__Ministre_de_la_Santé Redémarrage  des  réacteurs  belges  de  Tihange  et  de  Doel
+__label__Premier_Ministre Protocole  de  Kyoto
+__label__Ministre_de_la_Santé Commission  de  surveillance  des  psychiatries  fermées
+__label__Ministre_de_la_Sécurité_sociale Relèvement  de  l'âge  de  la  retraite
+__label__Ministre_de_l'Intérieur Risques  d'inondation  dans  la  vallée  de  l'Alzette
+__label__Ministre_de_la_Sécurité_sociale Manque  de  personnel  dans  les  maisons  de  retraite
+__label__Ministre_des_Finances Projet  présenté  par  une  société  sur  le  site  de  l'ancienne  fonderie  au  PED  à  Rodange
+__label__Ministre_de_l'Education_nationale Gestion  et  protection  des  données  des  élèves  et  du  personnel  de  l'Éducation  nationale
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Liaison  aérienne  directe  entre  Luxembourg  et  Moscou
+__label__Ministre_de_l'Intérieur Règlement  grand-ducal  instituant  un  groupe  de  travail  chargé  d'élaborer  un  plan  sectoriel  concernant  les  décharges  régionales  pour  déchets  inertes
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Finalisation  des  travaux  des  nouveaux  bâtiments  du  Lycée  du  Nord
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Projets  luxembourgeois  CDM  (Clean  Development  Mechanism)
+__label__Ministre_de_l'Intérieur Sécheresse
+__label__Ministre_de_la_Santé Statistiques  sur  le  tabagisme
+__label__Ministre_de_l'Education_nationale Contrats  de  travail  des  agents  du  Service  Rééducatif  Ambulatoire
+__label__Ministre_des_Finances Relations  entre  le  Luxembourg  et  le  Qatar
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Sécurité  sur  les  pistes  cyclables
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Acquisition  de  droits  d'émission  CO2  dans  le  cadre  du  Protocol  de  Kyoto
+__label__Ministre_de_la_Sécurité_sociale Frais  d'anesthésie
+__label__Ministre_de_la_Justice Affaire  "Bommeleeër"  -  Prise  de  position  M.  Reuland
+__label__Ministre_de_la_Justice Sécurité  au  centre  pénitentiaire  de  Schrassig
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Accessibilité  du  Laboratoire  national  de  santé
+__label__Ministre_de_la_Santé Régime  de  la  pharmacie  -  Filiales  de  commerçants  de  médicaments  par  internet
+__label__Ministre_de_la_Justice Effectif  de  la  Police  Grand-Ducale  auprès  de  l'aéroport  du  Findel
+__label__Ministre_de_la_Santé Scandale  des  oeufs  contaminés  au  Fipronil
+__label__Ministre_de_la_Santé Législation  sur  les  droits  et  obligations  du  patient  et  son  exécution
+__label__Ministre_de_la_Santé "Geessegripp"
+__label__Ministre_de_la_Santé Financement  de  la  stratégie  de  dépistage  à  large  échelle
+__label__Ministre_de_l'Education_nationale Programmes  de  prévention  contre  les  drogues  et  les  moyens  d'éviction  de  la  distribution  des  drogues  dans  les  écoles
+__label__Ministre_de_la_Justice Réorganisation  du  registre  de  commerce
+__label__Ministre_de_la_Justice Contrôles  aux  frontières  luxembourgeoises  dans  le  cadre  de  la  régularisation  des  sans  papiers  en  Belgique
+__label__Ministre_de_l'Intérieur Infrastructures  adéquates  au  Nord  du  pays  pour  l'a.s.b.l.  Luxembourg  Air  Rescue
+__label__Premier_Ministre Acquisition  de  l'ancien  siège  de  l'Arbed  par  la  Banque  et  Caisse  d'Epargne  de  l'Etat
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Aérodrome  de  Noertange
+__label__Ministre_de_la_Santé Utilisation  de  la  langue  des  signes
+__label__Ministre_de_la_Santé "IATA  Travel  Pass  Initiative"
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Normes  de  bruit  et  de  pollution  maximales  que  doivent  respecter  les  véhicules  motorisés  appelés  quads
+__label__Ministre_de_la_Justice Mendicité  organisée
+__label__Ministre_de_la_Santé ADHS  (Attention-Deficit  /  Hyperactivity  Syndrom)
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Ligne  ferroviaire  Luxembourg-Trêves-Coblence
+__label__Ministre_de_la_Santé Laboratoires  privés
+__label__Premier_Ministre Campagnes  d'informations  du  gouvernement
+__label__Ministre_de_la_Justice Consommation  de  drogues  au  Centre  Pénitentiaire  de  Luxembourg
+__label__Ministre_de_la_Sécurité_sociale Transports  en  taxi  pris  en  charge  par  la  CNS
+__label__Premier_Ministre Convocation  du  Comité  de  coordination  tripartite
+__label__Ministre_du_Développement_durable_et_des_Infrastructures "Formation  initiale"  pour  chauffeurs  professionnels
+__label__Ministre_de_la_Santé Fête  non  autorisée  au  Bambësch
+__label__Ministre_de_la_Justice Equipement  informatique    de  l'administration  judiciaire
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Locaux  d'OPE  à  Schifflange
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Problèmes  d'embouteillage  aux  heures  de  pointe  à  Ettelbruck
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Travaux  sur  l'autoroute  A1
+__label__Ministre_de_la_Santé Écoles  de  danse  dans  le  cadre  de  la  pandémie  Covid-19
+__label__Premier_Ministre Réduction  de  l'amplitude  journalière  des  salariés  du  secteur  du  transport  de  personnes  par  route
+__label__Ministre_de_l'Education_nationale École  internationale  à  Mersch
+__label__Premier_Ministre Les  propos  du  Secrétaire  américain  adjoint  à  la  Défense  Wolfowitz  sur  l'isolement  du  Luxembourg  sur  la  scène  internationale
+__label__Ministre_des_Finances Frais  d'enregistrement  des  échanges  à  l'amiable  de  terrains  agricoles
+__label__Ministre_de_la_Santé Réseau  de  pharmacies
+__label__Ministre_de_la_Justice Acquisition  de  la  nationalité  luxembourgeoise
+__label__Ministre_de_la_Santé Communication  avec  le  "Robert  Koch  Institut"
+__label__Ministre_de_la_Santé Assurances  des  exploitants  d'installations  nucléaires  en  Belgique
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Agrandissement  de  l'école  nationale  des  Sapeurs-Pompiers  à  Feulen
+__label__Premier_Ministre Espionnage  économique
+__label__Ministre_de_la_Sécurité_sociale Enquête  sur  la  facturation  dans  le  secteur  de  la  santé
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Participation  du  Luxembourg  à  la  protection  de  la  réserve  naturelle  Yasuni  en  Equateur
+__label__Premier_Ministre Recrutement  par  voie  d'examen-concours
+__label__Ministre_de_la_Justice Effectifs  de  la  Police  grand-ducale
+__label__Ministre_de_l'Education_nationale Taxe  d'apprentissage
+__label__Ministre_de_la_Santé Vente  par  correspondance  de  certains  médicaments
+__label__Ministre_des_Finances Chambres  de  compensation  et  de  règlement  pour  le  yuan
+__label__Ministre_de_la_Santé Alimentation  des  enfants  âgés  de  0  à  3  ans
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Chantier  du  viaduc  ferroviaire  "Bisserbréck"  et  piste  cyclable  PC1
+__label__Ministre_de_la_Justice Jeux  d'adresse
+__label__Ministre_des_Finances Réaffectation  des  anciennes  casernes  du  Plateau  du  Saint-Esprit
+__label__Ministre_de_l'Intérieur Mise  en  place  d'un  système  d'alerte  et  d'information
+__label__Ministre_des_Finances Réforme  fiscale
+__label__Ministre_de_la_Santé Processionnaire  de  chêne
+__label__Premier_Ministre Jugement  du  tribunal  administratif  en  matière  d'accès  du  public  à  l'information  relative  à  l'environnement
+__label__Premier_Ministre "Bug  Bounties"
+__label__Ministre_des_Finances Législation  des  holdings
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Circulation  d'un  train  Pendolino  entre  Bruxelles-Luxembourg-Bâle  et  l'évolution  des  lignes  ferroviaires  Luxembourg-Bruxelles  et  Luxembourg-Liège
+__label__Ministre_de_la_Santé Améliorations  au  sein  des  services  d'urgences  des  établissements  hospitaliers
+__label__Ministre_de_la_Sécurité_sociale Dossier  de  soins  partagé
+__label__Ministre_de_la_Justice Criminalité  liée  à  la  drogue
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Eaux  usées  de  la  décharge  du  SIDEC  à  Friddhaff
+__label__Ministre_de_l'Education_nationale Résultats  des  élèves  luxembourgeois  au  test  PISA
+__label__Ministre_de_l'Education_nationale Exercices  d'évacuation  dans  les  bâtiments  scolaires
+__label__Ministre_de_la_Justice Création  d'un  poste  "relations  publiques"  attaché  aux  tribunaux  luxembourgeois
+__label__Ministre_de_la_Santé Prélèvement  de  pacemaker  en  cas  de  mort
+__label__Ministre_de_l'Education_nationale Personnel  éducatif  et  psychosocial
+__label__Ministre_de_la_Santé Médicaments  contenant  du  cannabis
+__label__Premier_Ministre \
+__label__Ministre_de_l'Intérieur Conflits  d'intérêts  dans  le  cadre  d'autorisations  de  construire
+__label__Ministre_de_l'Education_nationale Transfert  de  la  section  bâtiment  du  Lycée  Technique  des  Arts  et  Métiers  au  Lycée  Technique  Josy  Barthel
+__label__Ministre_de_la_Santé Encouragement  auprès  des  sociétés  pharmaceutiques  internationales  à  s'implanter  au  Grand-Duché  de  Luxembourg
+__label__Premier_Ministre Prestations  familiales
+__label__Ministre_de_la_Santé Fumier  de  bovins  potentiellement  dangereux  pour  l'homme
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Photovoltaïque
+__label__Ministre_de_la_Santé Vaccination  des  personnes  de  30  à  54  ans  avec  AstraZeneca
+__label__Ministre_du_Développement_durable_et_des_Infrastructures "mBox"
+__label__Ministre_de_la_Santé Protection  des  enfants  et  des  jeunes  contre  la  diffusion  par  téléphone  portable  d'images  pornographiques  ou  violentes
+__label__Ministre_de_la_Justice Assistance  judicaire
+__label__Premier_Ministre \
+__label__Ministre_de_la_Santé Programme  d'aide  au  severage  tabagique  de  l'Union  des  caisses  de  maladie
+__label__Ministre_des_Finances Mésaffectation  de  logements
+__label__Ministre_de_l'Intérieur "Landesgartenschau"  à  Trèves
+__label__Ministre_de_la_Santé Retrait  du  vaccin  Astrazeneca  de  la  campagne  de  vaccination
+__label__Ministre_de_l'Intérieur Publication  en  ligne  du  raider  communal
+__label__Ministre_de_la_Justice Augmentation  de  l'effectif  de  la  police  grand-ducale  affecté  aux  commissariats  de  proximité  (CP)  et  aux  centres  d'intervention  (CI)
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Différences  des  amendes  en  cas  d'infractions  du  code  de  la  route
+__label__Ministre_de_l'Intérieur Construction  d'une  "Cité  policière"
+__label__Ministre_des_Finances Aides  et  mesures  du  Fonds  pour  l'emploi
+__label__Ministre_de_l'Intérieur Composition  des  commissions  consultatives  communales
+__label__Ministre_des_Finances Plafonnage  du  crédit  immobilier
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Stratégie  commerciale  de  la  société  aérienne  Cargolux
+__label__Ministre_de_la_Justice Démonstration  contre  une  exposition  d'articles  de  pêche  et  de  chasse  à  Medernach
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Echange  des  cartes  d'immatriculation  et  accidents
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Panneaux  de  signalisation  pour  informer  les  automobilistes  sur  des  trajets  alternatifs
+__label__Ministre_de_la_Justice Adoption  de  la  recommandation  1325  relative  à  la  traite  des  femmes  et  à  la  prostitution  forcée  (Conseil  de  l'Europe)
+__label__Ministre_de_l'Education_nationale Ecole  de  la  deuxième  chance
+__label__Ministre_de_la_Santé Le  programme  de  mammographie  et  la  détection  du  cancer  du  sein
+__label__Ministre_des_Finances "Stock  option  plans"
+__label__Ministre_des_Finances Permis  de  pêche
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Démission  de  la  directrice  de  la  Direction  de  l'Aviation  civile  de  la  présidence  du  conseil  d'administration  de  l'Agence  luxembourgeoise  pour  la  sécurité  aérienne
+__label__Ministre_de_la_Santé Prise  en  charge  de  la  contraception
+__label__Ministre_de_l'Education_nationale Retrait  du  manuel  scolaire  "Instruction  civique  2"  destiné  aux  classes  de  2ième  de  l'enseignement  secondaire
+__label__Ministre_des_Finances Recensement  fiscal  annuel
+__label__Ministre_de_la_Santé Réseau  5G  au  Luxembourg
+__label__Ministre_de_la_Sécurité_sociale Malades  en  unité  psychiatrique  attachés  par  des  lanières  à  leur  lit
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Caserne  Grand-Duc  Jean  à  Diekirch
+__label__Ministre_de_l'Education_nationale Critères  de  reconnaissance  comme  formation  continue  par  l'IFEN  et  insertion  d'évènements  dans  le  "Courrier  de  l'Éducation  nationale"
+__label__Ministre_de_l'Education_nationale Formation  de  techniciens  dans  le  domaine  de  l'environnement  naturel
+__label__Ministre_de_la_Sécurité_sociale Responsabilité  dans  le  cas  d'accidents  de  travail
+__label__Ministre_de_l'Intérieur Education  précoce
+__label__Ministre_de_la_Sécurité_sociale Marché  du  travail  au  Luxembourg
+__label__Ministre_des_Finances Prime  de  risque  des  douaniers
+__label__Ministre_de_l'Education_nationale Centres  de  compétences
+__label__Premier_Ministre Définition  de  l'antisémitisme
+__label__Ministre_de_la_Santé Évaluation  épidémiologique  des  données  existantes  sur  le  Covid-19  et  aux  démarches  futures  du  Gouvernement
+__label__Ministre_de_la_Sécurité_sociale Médecine  de  contrôle
+__label__Ministre_de_la_Justice Intervention  du  Ministre  de  la  Justice  auprès  de  la  commission  spéciale  des  Stupéfiants
+__label__Ministre_de_la_Santé Statistiques  sur  les  décès  dans  les  structures  pour  personnes  âgées
+__label__Ministre_de_la_Justice Détenus  âgés
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Développement  des  transports  publics
+__label__Ministre_des_Finances Création  d'un  bureau  de  recette  D  des  douanes  au  Contrôle  technique  à  Sandweiler
+__label__Ministre_de_la_Santé Avenir  de  l'a.s.b.l.  Luxembourg  Air  Rescue  (LAR)
+__label__Ministre_de_la_Santé Maisons  médicales
+__label__Ministre_de_la_Santé Implants  mammaires
+__label__Ministre_de_la_Santé Embauche  au  CRP  -  Santé
+__label__Ministre_de_la_Sécurité_sociale Détachements  irréguliers
+__label__Ministre_de_l'Education_nationale Port  du  masque  dans  les  écoles
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Frais  de  gestion  pour  le  timbre  "Droit  de  Chancellerie"  facturé  par  la  Société  Nationale  de  Circulation  Automobile  lors  de  l'immatriculation  d'un  véhicule  routier
+__label__Ministre_de_l'Intérieur Journée  de  Commémoration  Nationale
+__label__Ministre_de_la_Justice Modalités  et  dispositions  à  respecter  en  cas  de  faillite  d'une  asbl
+__label__Premier_Ministre Bicyclette  hollandaise  offerte  au  chef  de  gouvernement  lors  du  Sommet  Européen  à  Amsterdam
+__label__Ministre_de_la_Sécurité_sociale Accès  aux  soins  de  santé
+__label__Ministre_de_la_Santé "Blistering"  des  médicaments
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Nuisances  causées  par  des  trains  stationnés  pendant  la  nuit  près  de  la  gare  de  Troisvierges
+__label__Ministre_de_la_Justice Manifeste  "Maintenant,  il  faut  un  vrai  espace  judiciaire  européen"
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Plans  d'aménagement  généraux  (PAG)  des  communes  luxembourgeoises
+__label__Ministre_de_la_Sécurité_sociale Exécution  du  "Zukunftspak"
+__label__Ministre_de_la_Justice Situation  des  femmes  à  la  suite  d'un  divorce
+__label__Ministre_de_la_Justice Vague  de  cambriolages  au  Grand-Duché  de  Luxembourg
+__label__Ministre_de_la_Santé Maladie  infectieuse  provoquée  par  le  Hantavirus
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Musée  de  la  Police  grand-ducale
+__label__Ministre_de_l'Intérieur Stations  d'épuration
+__label__Premier_Ministre "Staatstrojaner"
+__label__Ministre_de_la_Santé Recommandation  du  Gouvernement  de  port  du  masque  dans  des  zones  extérieures  à  forte  densité  de  personnes
+__label__Premier_Ministre Eventuelle  "analyse"  par  le  BND  des  liaisons  Internet  depuis  et  vers  le  Luxembourg
+__label__Ministre_de_la_Sécurité_sociale Abus  d'alcool  et  prise  en  charge  des  coûts  médicaux
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Système  de  vignettes  de  couleur
+__label__Ministre_de_la_Justice Manifestation  syndicale  autour  de  l'assemblée  générale  du  conseil  d'administration  de  ARCELOR
+__label__Ministre_de_l'Education_nationale Recrutement  du  personnel  enseignant
+__label__Ministre_de_la_Santé Portail  internet  de  la  santé
+__label__Ministre_de_la_Justice Trafic  de  drogue  au  centre  pénitentiaire  de  Luxembourg
+__label__Ministre_des_Finances Violation  du  secret  bancaire  par  des  employés  de  la  "Kredietbank  Luxembourg"  (KPL)
+__label__Ministre_des_Finances Mécanisme  de  surveillance  unique  (SSM)  dans  le  cadre  du  projet  de  l'Union  bancaire
+__label__Ministre_de_la_Justice Affaire  opposant  le  gouvernement  et  la  chambre  des  comptes  à  propos  d'avances  sur  traitements  irréguliers
+__label__Ministre_de_la_Santé Cannabis  médical
+__label__Ministre_des_Finances Augmentation  du  taux  minimal  des  droits  d'accises  sur  le  gazole  professionnel
+__label__Ministre_de_la_Santé Dépistage  systématique  de  l'ostéoporose
+__label__Premier_Ministre Offre  d'acquisition  de  parts  de  la  société  CLT-UFA  par  la  société  américain  Disney
+__label__Ministre_de_la_Santé Recherche  sur  les  cellules  souches  embryonnaires
+__label__Ministre_de_la_Justice Evolution  des  statistiques  de  criminalité
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Traversées  de  Grousbous
+__label__Ministre_de_la_Sécurité_sociale Citoyens  luxembourgeois  ayant  leur  résidence  principale  dans  la  Grande  Région
+__label__Ministre_des_Finances Digitalisation  au  niveau  du  fisc
+__label__Ministre_des_Finances Campagnes  d'informations  du  gouvernement
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Application  du  système  TMC  (Traffic  Message  Channel)  au  Luxembourg
+__label__Ministre_de_la_Justice Etat  de  l'enquête  dans  l'affaire  "Bommeleeër"
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Réductions  de  vitesses  lors  des  pics  estivaux  en  concentration  d'ozone  troposhérique
+__label__Ministre_de_la_Justice Séparation  des  détenus  mineurs  des  détenus  majeurs
+__label__Ministre_de_la_Sécurité_sociale Prise  en  charge  par  l'assurance  maladie  des  frais  de  "vols  à  vide"  de  la  "Luxembourg  Air  Rescue"
+__label__Ministre_de_la_Justice Protection  des  témoins
+__label__Ministre_de_la_Santé Fixation  de  patients  atteints  d'une  maladie  mentale
+__label__Ministre_des_Finances Assujettissement  des  administrateurs  de  sociétés  à  la  TVA
+__label__Ministre_de_l'Education_nationale Fichier  élève
+__label__Ministre_de_la_Justice Organisation  interne  de  la  Police  grand-ducale
+__label__Ministre_de_la_Justice Mise  en  place  d'un  numéro  d'appel  européen  unique  "116  000"  pour  enfants  disparus  et  adolescents  en  fugue
+__label__Ministre_de_l'Intérieur Equipement  des  véhicules  de  secours
+__label__Ministre_de_la_Sécurité_sociale Montants  non  encore  encaissés  par  la  Caisse  de  pension
+__label__Ministre_de_l'Intérieur Perspectives  de  fusion  des  communes  de  la  Nordstad
+__label__Ministre_de_l'Intérieur Fabriques  d'églises
+__label__Ministre_de_l'Intérieur Congé  pour  raisons  de  santé  des  fonctionnaires  communaux
+__label__Ministre_de_la_Justice Contrôle  de  chantiers
+__label__Ministre_de_l'Intérieur Financement  du  "Fonds  pour  l'emploi"  par  les  communes
+__label__Ministre_de_la_Justice Présences  de  drogues  au  Centre  pénitentiaire  de  Schrassig
+__label__Ministre_des_Finances Amende  que  risque  BNP  Paribas  aux  Etats-Unis
+__label__Ministre_de_l'Intérieur Gardiennage  des  infrastructures  sportives
+__label__Ministre_des_Finances Brigade  canine  de  l'Administration  des  douanes  et  accises
+__label__Ministre_de_la_Santé Maigreur  des  mannequins
+__label__Ministre_des_Finances Evolution  des  prix  des  terrains  à  bâtir
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Avis  d'adjudication  des  grands  chantiers
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Eurovignette
+__label__Ministre_de_l'Intérieur Règlement  2016/679  du  Parlement  européen  et  du  Conseil  du  27  avril  2016  relatif  à  la  protection  des  personnes  physiques  à  l'égard  du  traitement  des  données  à  caractère  personnel  et  à  la  libre  circulation  de  ces  données
+__label__Ministre_de_la_Santé Augmentation  des  affectations  de  la  thyroïde
+__label__Ministre_de_la_Justice Cambriolages
+__label__Ministre_des_Finances Mise  en  place  d'un  géoportail  français
+__label__Ministre_de_la_Santé Campagne  de  sensibilisation  pour  les  professions  de  santé
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Mesures  compensatoires  pour  la  route  du  Nord
+__label__Ministre_de_la_Sécurité_sociale Avenir  de  la  résidence  pour  personnes  âgées  "An  de  Wisen"  à  Bettembourg
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Usage  du  signe  distinctif  particulier  "médecin  en  service"
+__label__Ministre_des_Finances Paiements  électroniques
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Plans  directeurs  sectoriels
+__label__Ministre_de_l'Education_nationale Grève  internationale  contre  le  changement  climatique
+__label__Ministre_de_la_Santé Évolution  du  taux  de  suicide  durant  la  crise  de  la  Covid-19
+__label__Ministre_de_l'Intérieur Fabriques  d'églises  et  conventions  à  conclure  entre  les  communes  et  les  fabriques  d'églises  concernant  les  édifices  religieux
+__label__Ministre_de_la_Justice Utlisation  de  la  "signature  habituelle"  pour  des  actes  officiels
+__label__Ministre_de_l'Intérieur Bail  à  ferme
+__label__Ministre_des_Finances Négociations  de  la  vente  de  la  KBL
+__label__Ministre_de_la_Justice Jeux  de  hasard
+__label__Premier_Ministre Distinctions  honorifiques  décernées  à  l'occasion  de  la  fête  nationale
+__label__Ministre_de_l'Education_nationale Etudes  supérieures  des  enseignants
+__label__Ministre_des_Finances Fintech
+__label__Ministre_des_Finances Transfert  des  quartiers  généraux  d'Altice  aux  Pays-Bas
+__label__Ministre_des_Finances Plafonds  de  paiement  en  liquide
+__label__Ministre_de_l'Education_nationale Contrats  d'apprentissage  et  de  stage  à  des  travaux  à  risques  spécifiques
+__label__Ministre_de_la_Santé Délais  d'attente  pour  réaliser  un  examen  scanner  et  un  examen  IRM
+__label__Ministre_de_la_Justice Expulsion  d'une  personne  d'origine  algérienne
+__label__Ministre_de_la_Santé Limite  d'âge  pour  donneurs  de  sang
+__label__Ministre_des_Finances Opportunités  de  la  technologie  de  la  blockchain  pour  le  secteur  financier
+__label__Ministre_de_la_Justice Placement  d'enfants  dans  le  cadre  de  la  loi  sur  la  protection  de  la  jeunesse
+__label__Ministre_des_Finances Décisions  fiscales  anticipées  des  autorités  étrangères
+__label__Ministre_de_la_Santé Questionnaire  sur  la  qualité  du  sommeil
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Avions  AERO  L39  ALBATROS
+__label__Ministre_de_la_Santé Structure  d'accueil  pour  toxicomanes  à  Esch-sur-Alzette  et  Ettelbruck
+__label__Ministre_de_la_Sécurité_sociale Abus  de  l'usage  de  médicaments
+__label__Ministre_de_la_Santé Protection  des  salariés  du  commerce  dans  le  contexte  de  la  pandémie  du  coronavirus
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Heures  supplémentaires  des  forestiers
+__label__Ministre_de_l'Education_nationale Rythmes  scolaires
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Modernisation  de  la  ligne  ferroviaire  Bruxelles  -  Luxembourg
+__label__Ministre_de_la_Santé Vaccin  contre  la  grippe
+__label__Ministre_de_la_Justice Construction  d'un  nouvel  établissement  pénitentiaire  au  Luxembourg
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Changement  horaire  des  CFL
+__label__Ministre_de_la_Santé Services  de  secours  de  la  protection  civile
+__label__Ministre_de_la_Santé Législation  relative  au  Cannabidiol
+__label__Ministre_de_l'Education_nationale Radicalisation  des  jeunes
+__label__Ministre_de_la_Santé Mesures  de  contraintes  en  psychiatrie
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Prolongation  des  permis  de  conduire  au  seuil  d'une  nouvelle  catégorie  d'âge
+__label__Ministre_de_l'Education_nationale Aide  de  l'Etat  pour  les  structures  d'accueil  de  taille  moyenne
+__label__Ministre_de_la_Justice Indemnisation  suite  à  une  détention  préventive
+__label__Premier_Ministre Emploi  de  personnel  non  qualifié  dans  le  secteur  des  foyers  de  jour  pour  enfants
+__label__Ministre_de_la_Santé Hausse  du  tabagisme  au  Luxembourg
+__label__Ministre_de_la_Santé Urgences  dentaires
+__label__Ministre_de_la_Justice Recouvrement  d'amendes  pénales  au  Luxembourg
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Sûreté  et  Sécurité  de  la  navigation  aérienne  et  sur  situation  actuelle  à  l'aéroport  de  Luxembourg
+__label__Ministre_de_l'Education_nationale Structures  conventionnées  d'éducation  et  d'accueil
+__label__Ministre_des_Finances Effectif  de  l'Administration  des  douanes  et  accises
+__label__Ministre_de_l'Education_nationale Remplacement  des  tablettes  tactiles
+__label__Ministre_de_la_Justice Liberté  d'expression
+__label__Ministre_des_Finances Stratégie  de  promotion  de  et  vers  l'émirat  de  Dubaï
+__label__Premier_Ministre Dialogue  interinstitutionnel
+__label__Ministre_de_l'Intérieur Institution  du  Conseil  supérieur  du  Développement  durable
+__label__Ministre_de_la_Sécurité_sociale Taux  d'absentéisme  dans  la  fonction  publique
+__label__Ministre_de_l'Intérieur Prime  de  grand  risque  au  profit  des  agents  professionnels  engagés  par  l'Administration  des  Services  de  Secours
+__label__Ministre_de_la_Santé Reprise  des  activités  dans  le  secteur  Horesca
+__label__Ministre_de_la_Justice Harcèlement  sexiste
+__label__Ministre_de_l'Education_nationale Création  d'un  lycée  transfrontalier  pour  professions  de  santé  au  Luxembourg
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Multiplication  des  accidents  impliquant  des  piétons
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Fermeture  du  tarmac  du  Findel  pour  cause  de  déneigement
+__label__Premier_Ministre Caractère  laïque  de  l'État
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Train  du  type  "Pendolino"
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Péage  automobile  sur  les  autoroutes  et  routes  allemandes
+__label__Ministre_des_Finances Moratoire  sur  la  contribution  pour  enfants
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Carcasses  de  train  de  fret  belge
+__label__Ministre_des_Finances Taux  d'imposition  maximale  sur  le  revenu
+__label__Premier_Ministre Complexe  concentrationnaire  d'Auschwitz
+__label__Ministre_de_la_Santé Carte  d'identité  professionnelle  pour  les  professions  de  soins  de  santé
+__label__Ministre_de_la_Santé Les  hôpitaux  luxembourgeois  et  le  "bug"  de  l'an  2000
+__label__Ministre_de_la_Justice Honoraires  des  experts  judiciaires  indépendants
+__label__Premier_Ministre Composition  des  Task  forces  dans  le  cadre  de  la  pandémie  du  coronavirus
+__label__Ministre_de_la_Santé Drone  "ambulance"  équipé  d'un  défibrillateur
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Objets  interdits  en  bagage  de  cabine
+__label__Ministre_des_Finances Renommée  de  la  place  financière  du  Luxembourg
+__label__Ministre_de_la_Justice Les  vues  du  Gouvernement  en  matière  "d'Union  libre"
+__label__Ministre_de_la_Justice Détenus  non-résidents
+__label__Ministre_de_la_Santé Médicament  "Baclofène"
+__label__Ministre_de_la_Justice Logements  de  service  pour  les  membres  de  la  police  grand-ducale
+__label__Ministre_de_l'Intérieur Organisation  d'une  campagne  relative  à  l'inscription  des  résidents  non  luxembourgeois  de  l'Union  européenne  sur  les  listes  électorales
+__label__Ministre_de_la_Justice Rapport  d'activité  de  l'autorité  de  contrôle  institutée  par  l'article  17  paragraphe  2,  de  la  loi  modifiée  du  2  août  2002  relative  à  la  protection  des  personnes  à  l'égard  du  traitement  des  données  à  caractère  personnel  pour  l'année  2015
+__label__Ministre_de_la_Santé Suivi  des  patients  dans  les  polycliniques
+__label__Ministre_de_l'Education_nationale Décrochage  scolaire
+__label__Premier_Ministre Infrastructures  critiques
+__label__Ministre_de_l'Education_nationale Formation  dans  le  cadre  de  l'électromobilité
+__label__Premier_Ministre Politique  de  communication  dans  le  contexte  de  la  pandémie  du  coronavirus
+__label__Ministre_des_Finances Papier  timbre  utilisé  par  les  notaires
+__label__Ministre_de_la_Santé Tests  PCR
+__label__Ministre_de_la_Santé Hausse  des  prix  des  parkings  des  hôpitaux
+__label__Ministre_des_Finances Création  d'une  assurance  obligatoire  contre  les  risques  de  catastrophes
+__label__Ministre_de_l'Intérieur Situation  du  bénévolat  dans  les  services  de  secours
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Lampes  à  diode  électroluminescente  (LED)
+__label__Ministre_de_la_Justice Législation  concernant  la  conservation  des  données
+__label__Ministre_de_la_Santé Sécurité  dans  les  structures  d'accueil  pour  personnes  âgées  et  maisons  de  soins  dans  le  contexte  de  la  pandémie  du  coronavirus
+__label__Premier_Ministre Convocation  de  la  tripartite  sidérurgique
+__label__Ministre_de_l'Education_nationale Poupées  sexuelles  d'enfants
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Soumissions  séparées  par  corps  de  métiers
+__label__Ministre_de_la_Justice Prise  en  charge  des  victimes  d'abus  sexuels
+__label__Ministre_de_la_Santé Accès  universel  aux  contraceptifs
+__label__Ministre_des_Finances Représentation  unique  de  la  zone  euro  au  sein  du  Fonds  Monétaire  International  (FMI)
+__label__Premier_Ministre Ouvrage  général  complet  sur  le  droit  constitutionnel  et  le  droit  administratif  au  Luxembourg
+__label__Ministre_de_la_Santé Test  de  dépistage  de  la  Covid-19  avant  un  séjour  à  l'étranger.
+__label__Ministre_de_la_Sécurité_sociale Demandeurs  d'emploi
+__label__Ministre_de_l'Intérieur Brochure  d'information  sur  le  droit  de  vote  des  étrangers  communautaires
+__label__Ministre_de_la_Santé "Bloomberg  2019  Healthiest  Country  Index"
+__label__Ministre_de_l'Education_nationale Emploi  des  adolescents  aux  travaux  à  risques  spécifiques
+__label__Ministre_de_la_Santé Services  de  restauration  dans  les  établissements  hospitaliers
+__label__Ministre_de_la_Santé Invitations  pour  le  "large  scale  testing"
+__label__Ministre_de_la_Santé Futur  de  la  médecine  personnalisée  au  Luxembourg
+__label__Ministre_de_la_Santé Réseau  Luxembourgeois  d'Information  sur  les  Stupéfiants  et  les  Toxicomanies  (RELIS)
+__label__Ministre_des_Finances Gouvernance  de  la  Commission  de  Surveillance  du  Secteur  Financier
+__label__Ministre_de_l'Education_nationale Langues  de  communication  au  Luxembourg
+__label__Premier_Ministre Répartition  des  vaccins  contre  la  Covid-19  dans  l'Union  européenne
+__label__Ministre_de_l'Education_nationale Dispense  des  cours  pour  les  enfants  faisant  partie  d'un  choeur
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Ligne  ferroviaire  Thionville-Belval-Longwy
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Futur  siège  social  d'ArcelorMittal  à  Kirchberg
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Concept  de  "vague  verte"
+__label__Premier_Ministre Clônage  d'êtres  humains
+__label__Ministre_de_la_Justice Actes  notariés  immobiliers  dans  le  contexte  de  la  pandémie  du  coronavirus
+__label__Ministre_des_Finances Nombre  des  avertissements  taxés  non-payés
+__label__Ministre_de_la_Santé Recherche  de  cas  de  Covid-19  présents  sur  le  territoire  luxembourgeois  avant  le  début  présumé  de  l'épidémie
+__label__Premier_Ministre Extension  du  bénéfice  du  congé  de  paternité  aux  indépendants  prévue  dans  le  cadre  de  l'accord  gouvernemental
+__label__Premier_Ministre Protection  des  intérêts  luxembourgeois  -  Démission  du  CEO  d'Arcelor-Mittal
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Subsides  accordés  par  le  Ministère  aux  différentes  associations  au  Luxembourg
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Repos  hebdomadaire  des  chauffeurs  de  poids  lourds
+__label__Ministre_de_l'Intérieur Nombre  de  communes  permettant  la  célébration  d'un  mariage  civil  les  samedis
+__label__Ministre_de_l'Education_nationale Élèves  à  besoins  spécifiques  (EBS)
+__label__Ministre_de_la_Justice Affaire  "Bommeleeër"
+__label__Ministre_de_la_Justice Lutte  contre  le  surendettement
+__label__Ministre_de_l'Intérieur Registre  national  des  personnes  physiques
+__label__Ministre_de_la_Santé Alimentation  dans  les  maisons  relais  et  les  crèches
+__label__Ministre_du_Développement_durable_et_des_Infrastructures TGV  entre  Strasbourg  et  Bruxelles
+__label__Ministre_de_la_Santé Centre  thérapeutique  d'Useldange
+__label__Ministre_de_la_Santé Suites  de  l'affaire  Mediator
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Monorail  suspendu  entre  Thionville  et  Luxembourg-Ville
+__label__Ministre_de_l'Education_nationale Conventions  individuelles  entre  établissement  de  l'enseignement  secondaire  et  élèves
+__label__Ministre_de_l'Intérieur Organisation  d'une  nouvelle  chasse  battue  au  "Bambësch"
+__label__Ministre_de_la_Sécurité_sociale Prévention  dans  le  domaine  de  la  santé
+__label__Ministre_de_la_Justice Travaux  de  construction  de  l'Unité  spéciale  de  sécurité  à  Dreiborn
+__label__Ministre_de_la_Santé Mesures  en  relation  avec  les  rejets  de  substances  radioactives  et  non-radioactives  dans  l'environnement
+__label__Ministre_de_l'Intérieur Fonctionnement  des  commission  consultatives  communales  pour  étrangers
+__label__Ministre_de_l'Intérieur Diffusion  de  sondages  d'opinion  avant  toutes  élections
+__label__Ministre_de_l'Education_nationale Huitième  programme  d'équipement  sportif
+__label__Ministre_de_la_Justice Discours  de  haine  en  ligne
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Infrastructure  du  Nordstad-Lycée
+__label__Ministre_des_Finances Exonérations  fiscales  des  diplomates
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Graffitis  observables  dans  la  Vieille  Ville
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Assainissement  énergétique
+__label__Ministre_des_Finances Procédure  en  matière  de  législation  fiscale
+__label__Ministre_de_la_Santé Premier  cas  d'infection  à  virus  Zika  au  Luxembourg
+__label__Ministre_des_Finances Convention  de  non-double  imposition  entre  le  Luxembourg  et  la  France
+__label__Ministre_de_l'Education_nationale Initiatives  gouvernementales  en  faveur  du  logiciel  libre  dans  les  administrations  publiques
+__label__Ministre_de_l'Education_nationale Excursions  et  voyages  scolaires  dans  le  cadre  de  l'épidémie  du  coronavirus  2019-nCoV  (Covid-19)
+__label__Ministre_de_l'Intérieur Organisation  et  fonctionnement  du  SAMU
+__label__Ministre_de_l'Education_nationale Cartables
+__label__Ministre_de_l'Education_nationale Prise  en  charge  des  frais  supplémentaires  des  crèches  non-conventionnées
+__label__Ministre_des_Finances Procédure  de  mise  hors  circulation  d'un  véhicule
+__label__Ministre_des_Finances Augmentation  du  taux  minimal  des  droits  d'accises  sur  le  gazole  professionnel
+__label__Ministre_de_la_Sécurité_sociale Délai  de  remboursement  de  la  Caisse  Nationale  de  Santé
+__label__Ministre_de_l'Education_nationale Réforme  de  la  loi  sur  la  protection  de  la  jeunesse
+__label__Ministre_de_la_Justice Expulsion  forcée    d'un  ressortissant    du  Togo
+__label__Ministre_de_la_Sécurité_sociale Application  de  l'index  aux  laboratoires
+__label__Ministre_de_l'Intérieur Vote  par  correspondance
+__label__Ministre_de_l'Education_nationale Cantines
+__label__Ministre_de_la_Santé Remboursement  des  analyses  médicales
+__label__Ministre_de_la_Sécurité_sociale Pension  de  survie
+__label__Ministre_de_la_Justice Qualifications  des  policiers  du  quartier  de  la  gare
+__label__Ministre_de_l'Intérieur Police  Grand-Ducale
+__label__Ministre_de_l'Intérieur Exécution  des  travaux  d'infrastructure  du  projet  Carmel  à  Luxembourg
+__label__Ministre_de_la_Justice Fonctionnement  de  la  section  économique  et  financière  de  la  police  judiciaire
+__label__Ministre_de_la_Justice Délinquants  sexuels
+__label__Ministre_des_Finances Application  de  la  TVA  sur  les  indemnités  des  administrateurs  indépendants
+__label__Ministre_de_la_Santé Ostéodensitométrie
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Travaux  d'extension  du  Lycée  Technique  de  Bonnevoie
+__label__Ministre_de_la_Santé Statuts  de  la  CNS  concernant  la  chirurgie  bariatrique
+__label__Ministre_de_l'Education_nationale Programme  d'éducation  plurilingue
+__label__Ministre_de_la_Sécurité_sociale Remboursement  des  médecins  créanciers  de  prestations  effectuées  et  non-payées
+__label__Ministre_de_la_Justice Reconnaissance  des  PACS  étrangers
+__label__Ministre_des_Finances "Rulings"
+__label__Ministre_de_l'Intérieur L'immigration  clandestine  au  Luxembourg
+__label__Ministre_de_l'Education_nationale Réforme  de  la  division  supérieure  de  l'enseignement  secondaire
+__label__Ministre_des_Finances Hausse  des  droits  d'accises  sur  le  carburant
+__label__Ministre_des_Finances Contrôles  douaniers
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Pollution  du  ruisseau  "Bibeschbaach"  à  Roeser
+__label__Ministre_de_la_Santé Tests  Covid-19  à  l'École  internationale  Differdange  et  Esch-sur-Alzette
+__label__Ministre_de_la_Justice Mise  en  place  d'un  juge  aux  affaires  familiales
+__label__Premier_Ministre Intimidation  d'un  fonctionnaire
+__label__Ministre_de_la_Santé Limite  d'âge  pour  les  médecins
+__label__Ministre_de_la_Santé Dépendance  aux  opioïdes
+__label__Premier_Ministre Déclarations  du  Ministre  des  Finances  allemand  et  du  président  du  parti  social-démocrate  allemand
+__label__Ministre_de_la_Sécurité_sociale Mécanismes  de  feedback  auprès  des  administrations  et  établissements  publics.
+__label__Ministre_de_l'Intérieur Tentative  d'attentat  à  Paris
+__label__Ministre_de_la_Justice Ratification  de  la  Convention  du  Conseil  de  l'Europe  sur  la  lutte  contre  la  traite  des  êtres  humains
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Terminal  CFL  intermodal  Bettembourg-Dudelange
+__label__Ministre_de_la_Justice Fermeture  d'ateliers  au  Centre  pénitentiaire  de  Schrassig
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Elargissement  de  deux  à  trois  voies  de  l'autoroute  A6  (Arlon-Luxembourg)
+__label__Ministre_des_Finances 17ième  actualisation  du  programme  de  stabilité  et  le  rapport  du  Fonds  Monétaire  International  sur  l'économie  luxembourgeoise
+__label__Ministre_de_la_Santé Précautions  à  prendre  avec  les  téléphones  mobiles
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Introduction  de  la  gratuité  dans  les  transports  en  commun
+__label__Ministre_de_la_Justice Mariage  des  couples  homosexuels
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Bibliothèque  nationale
+__label__Ministre_de_l'Intérieur Mésaffectation  de  logements  à  des  fins  professionnelles
+__label__Ministre_de_la_Justice Création  de  "maisons  de  l'enfant"
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Conduite  sous  l'emprise  de  drogues
+__label__Premier_Ministre Décision  de  la  Belgique  de  placer  le  Luxembourg  sur  la  liste  noire  des  paradis  fiscaux
+__label__Ministre_de_l'Intérieur Plan  sectoriel  réglant  l'implantation  des  antennes  GSM  ou  UMTS
+__label__Ministre_des_Finances Contrôle  des  mesures  sanitaires  dans  les  transports  publics
+__label__Ministre_de_la_Justice Affaire  "Bommeleeër"  -  Avis  du  Federal  Bureau  of  Investigation  (FBI)
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Contrôle  et  information  du  trafic  sur  les  autoroutes  (CITA)
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Exclusion  des  Autobus  de  la  Ville  de  Luxembourg  du  transport  de  personnes  dans  les  communes  voisines  de  la  Ville  de  Luxembourg
+__label__Ministre_de_la_Santé Vente  de  produits  de  tabacs  dans  les  commerces  se  trouvant  dans  les  hôpitaux
+__label__Premier_Ministre Respect  de  la  loi  sur  les  médias  électroniques
+__label__Ministre_des_Finances Zukunftspak
+__label__Ministre_de_la_Santé Projet  "Garde  de  nuit"
+__label__Premier_Ministre Accessibilité  des  avis  émis  par  le  Conseil  d'Etat
+__label__Premier_Ministre Plan  d'action  européen  de  la  défense
+__label__Ministre_de_la_Santé Risque  de  diabète  dû  à  la  consommation  de  boissons  "light"
+__label__Ministre_des_Finances Plafonnement  de  l'index
+__label__Ministre_de_la_Justice Subsides  accordés
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Travaux  de  renouvellement  de  la  N7  (E421)  près  de  Hosingen
+__label__Ministre_de_la_Santé Construction  de  "l'Hôpital  Kirchberg"
+__label__Ministre_de_l'Education_nationale École  nationale  pour  adultes
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Réouverture  de  la  route  nationale  CR  106
+__label__Ministre_de_la_Justice Trafic  de  drogues  au  prison
+__label__Ministre_de_la_Santé Irradiation  des  aliments
+__label__Premier_Ministre Formalités  lors  du  dépôt  des  listes  de  candidats  pour  les  élections  législatives
+__label__Ministre_de_la_Santé Laboratoire  du  sommeil
+__label__Ministre_de_la_Santé Refonte  du  droit  pharmaceutique
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Augmentation  du  traffic  de  poids  lourds  à  Grevenmacher
+__label__Ministre_de_l'Education_nationale Éducation  sexuelle
+__label__Ministre_de_l'Intérieur question  retirée  en  date  du  19.09.2001
+__label__Ministre_de_l'Education_nationale Pédagogie  multisensorielle  pour  les  enfants  dyslexiques
+__label__Premier_Ministre Frais  du  mariage  de  Son  Altesse  Royale  le  Prince  Guillaume,  Grand-Duc  Héritier,  avec  la  Comtesse  Stéphanie  de  Lannoy
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Fermeture  du  CR418  entre  Echternach  et  Moersdorf  suite  à  un  glissement  de  terrain
+__label__Ministre_de_la_Justice Législation  en  matière  de  gestation  pour  autrui
+__label__Ministre_des_Finances Accises  prélevées  sur  les  produits  pétroliers
+__label__Ministre_de_la_Santé Évolution  de  la  consommation  de  médicaments  psychotropes
+__label__Ministre_de_la_Santé Teneur  en  sucre  dans  les  boissons
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Signalisation  routière
+__label__Ministre_de_la_Sécurité_sociale Remboursement  par  les  caisses  de  maladie  d'un  appareil  médical  d'électrostimulation  TENS  et  les  électrodes  respectives
+__label__Ministre_des_Finances Prime  fiscale  pour  l'achat  d'un  vélo  ou  d'un  pedelec
+__label__Premier_Ministre "Migrant  Integration  Policy  Index"
+__label__Ministre_de_l'Education_nationale Harcèlement  à  l'école
+__label__Ministre_de_la_Santé Pollution  de  l'air  due  aux  émissions  d'oxyde  d'azote
+__label__Ministre_de_la_Justice Négociations  sur  le  Partenariat  Transatlantique  de  Commerce  et  d'Investissement,  dénommé  TTIP
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Installation  de  la  "Maison  du  Parc  naturel  Mëllerdall"  dans  le  "Château  Renaissance  de  Beaufort"
+__label__Ministre_de_la_Santé Elaboration  d'un  dictionnaire  pour  le  secteur  de  la  santé
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Abolition  du  transport  public  gratuit  des  étudiants
+__label__Ministre_de_l'Intérieur Réserves  en  eau  potable
+__label__Ministre_des_Finances Hausse  généralisée  des  taux  de  TVA
+__label__Ministre_de_la_Santé Maladies  rares
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Installations  solaires  photovoltaïques
+__label__Ministre_de_la_Justice Utilisation  de  la  langue  luxembourgeoises  dans  le  système  judiciaire
+__label__Ministre_de_la_Santé Produit  désinfectant  nommé  Lionser-Medical  Disinfectant
+__label__Ministre_de_la_Santé Transport  transfrontalier  par  ambulance
+__label__Premier_Ministre Aménagement  et  valorisation  du  site  Belval  (conservation  d'un  des  deux  hauts-fourneaux)
+__label__Ministre_de_la_Justice Mesures  de  sécurité  au  Centre  pénitentiaire
+__label__Ministre_des_Finances Augmentation  de  la  TVA  et  répercussions  sur  les  lois  de  financement
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Entretien  des  installations  douanières  aux  frontières  luxembourgeoises
+__label__Premier_Ministre Cybercriminalité
+__label__Ministre_des_Finances Imposition  des  associations  sans  but  lucratif
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Tarification  transfrontalière  avec  la  Belgique  en  matière  de  transports  en  commun
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Réunion  sur  les  objectifs  européens  2030  en  matière  de  climat
+__label__Ministre_de_l'Intérieur Certificat  de  résidence  des  personnes  ayant  acquis  le  statut  de  réfugié
+__label__Ministre_de_l'Intérieur Encadrement  psychologique  de  certaines  professions  à  risque
+__label__Ministre_de_l'Education_nationale Lycée  prévu  pour  le  canton  de  Clervaux
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Nouveau  site  pour  la  Chambre  d'Agriculture  et  les  laboratoires  de  l'Administration  des  Services  techniques  de  l'Agriculture
+__label__Ministre_de_l'Education_nationale Impact  de  l'obligation  du  port  du  masque  sur  les  enfants
+__label__Ministre_de_la_Santé Healthnet
+__label__Ministre_de_la_Sécurité_sociale Remboursement  du  médicament  Lucentis
+__label__Premier_Ministre Compétences  de  la  commission  consultative  des  droits  de  l'homme
+__label__Ministre_de_l'Education_nationale Procédure  de  remboursement  de  diverses  prestations  dans  le  domaine  de  la  santé
+__label__Ministre_de_l'Intérieur Insertion  obligatoire  d'une  référence  au  plan  d'occupation  du  sol  dans  les  actes  immobiliers
+__label__Premier_Ministre Vote  par  correspondance  aux  élections  législatives  et  européennes  2004
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Bruit  le  long  de  la  voie  express  B7
+__label__Ministre_de_la_Santé Hospitalisation  à  l'étranger  lors  de  la  pandémie  de  la  Covid-19
+__label__Ministre_de_la_Santé Le  fonctionnement  du  Laboratoire  National  de  Santé
+__label__Ministre_du_Développement_durable_et_des_Infrastructures CR  314  entre  Eschdorf  et  Lultzhausen
+__label__Ministre_de_la_Sécurité_sociale Modification  des  statuts  de  l'Union  des  Caisses  de  Maladie  (UCM)
+__label__Ministre_de_la_Sécurité_sociale Problèmes  liés  au  service  médical  d'urgence
+__label__Ministre_des_Finances Préparation  économico-financier  du  Brexit
+__label__Ministre_de_la_Santé Rendez-vous  pour  l'administration  de  la  2e  dose  du  vaccin  contre  la  Covid-19
+__label__Ministre_des_Finances Implantation  d'une  usine  de  production  de  yaourt  au  Luxembourg
+__label__Ministre_de_la_Santé "Südspidol"
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Fort  Olisy
+__label__Ministre_de_la_Santé Utilisation  thérapeutique  du  cannabis
+__label__Ministre_de_l'Intérieur Prise  en  charge  des  frais  de  conservation  et  de  préservation  des  édifices  religieux  mis  à  la  disposition  du  fonds
+__label__Ministre_de_la_Justice Demandeurs  d'asile  pendant  l'année  1999
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Convention  collective  des  conducteurs  d'autobus
+__label__Ministre_de_l'Education_nationale Qualifications  requises  pour  la  surveillance  des  activités  balnéaires  pendant  les  vacances  scolaires
+__label__Ministre_des_Finances Versement  d'intérêts  de  l'Etat  à  ses  créanciers
+__label__Ministre_de_la_Justice Défaillances  du  système  informatique  au  Centre  Pénitentiaire  de  Schrassig
+__label__Ministre_de_la_Santé Harcèlement  moral
+__label__Ministre_de_la_Justice Appareils  de  mesurage  du  volume  sonore
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Sel  de  déneigement
+__label__Ministre_de_la_Santé Scandale  de  la  viande  de  cheval
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Revalorisation  des  friches  industrielles  de  Wiltz
+__label__Ministre_de_la_Santé Fumer  en  terrasse  des  restaurants
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Ligne  ferroviaire  du  Nord
+__label__Ministre_de_la_Santé Paiement  de  l'indemnité  pécuniaire  de  maternité
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Pointeurs  laser
+__label__Ministre_de_la_Santé Communication  de  l'dentité  de  personnes  en  fuite  du  Centre  hospitalier  neuro-psychiatrique  d'Ettelbrück  (CHNP)  et  médicaments  administrés
+__label__Ministre_de_la_Justice Mesures  de  sécurité  en  cas  d'agitations
+__label__Ministre_de_la_Santé Administration  de  psychotropes  dans  les  maisons  de  retraite
+__label__Ministre_des_Finances Etat  de  la  maison  dite  "Franz  Meyer"  à  Marnach
+__label__Ministre_des_Finances Exécution  de  la  directive  concernant  l'imposition  des  revenus  de  l'épargne
+__label__Ministre_de_la_Santé Mesures  au  niveau  des  cantines  d'entreprises  dans  le  cadre  de  la  pandémie  de  la  Covid-19
+__label__Ministre_de_la_Santé Inscription  de  ressortissants  luxembourgeois  en  sections  kinésithérapie,  éducation  spécialisée,  ergothérapie,  logopédie  et  médecine  vétérinaire  dans  une  Haute  Ecole  ou  Université  belges
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Ligne  RGTR  608
+__label__Ministre_de_l'Education_nationale Attaque  informatique  sur  la  plateforme  "education.lu"
+__label__Ministre_des_Finances Obligation  d'un  "Compte  chèque  postal"  pour  le  personnel  de  la  fonction  publique
+__label__Premier_Ministre Culture  historique  au  Luxembourg
+__label__Ministre_de_la_Justice Indemnisation  des  victimes  d'infractions
+__label__Ministre_de_la_Justice Cours  complémentaires  en  droit  luxembourgeois
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Politique  future  de  la  Société  Nationale  de  Contrôle  Technique
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Consommation  foncière
+__label__Ministre_de_la_Santé Nouveau-nés
+__label__Ministre_des_Finances Procédures  de  relotissement  de  terrains  à  bâtir
+__label__Ministre_de_la_Justice Interdiction  de  la  dissimulation  du  visage  dans  les  lieux  publics
+__label__Ministre_de_l'Education_nationale Familles  d'accueil
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Cargolux
+__label__Ministre_de_la_Santé Optimisation  des  services  d'urgence
+__label__Ministre_de_la_Justice Droit  de  séjour  des  personnes  étrangères  mariées  à  une  personne  luxembourgeoise
+__label__Ministre_de_la_Justice Transports  de  fonds
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Délais  d'attente  des  candidats  au  permis  de  conduire
+__label__Premier_Ministre Renforcement  des  instruments  de  défense  commerciale
+__label__Ministre_de_la_Justice Traitement  des  données  des  personnes  privées  par  la  Police  grand-ducale
+__label__Ministre_de_la_Sécurité_sociale Remboursement  des  analyses  sanguines
+__label__Ministre_des_Finances Accès  des  héritiers  aux  déclarations  d'impôts  des  années  précédentes  du  contribuable  décédé
+__label__Ministre_des_Finances Impact  du  renforcement  des  mesures  visant  à  lutter  contre  le  blanchiment  de  capitaux  et  le  financement  du  terrorisme  sur  les  activités  des  organisations  non  gouvernementales  de  développement  (ONGD)
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Financement  de  certaines  infrastructures  à  l'étranger
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Transport  transfrontalier
+__label__Ministre_de_la_Justice Lutte  contre  la  cybercriminalité
+__label__Ministre_de_la_Santé Utilisation  des  masques  de  protection  dans  le  contexte  de  la  pandémie  du  coronavirus
+__label__Ministre_de_la_Santé Site  «Elsenbrich»  à  Esch-sur-Alzette
+__label__Ministre_de_la_Justice Exécution  de  peine  en  semi-liberté  pour  les  détenus  féminins
+__label__Ministre_de_l'Education_nationale Lycée  Ermesinde
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Changements  internes  au  sein  de  l'Administration  des  Ponts  et  Chaussées
+__label__Ministre_de_la_Sécurité_sociale Nouveau  système  d'autosurveillance  du  diabète
+__label__Ministre_de_la_Justice Equilibre  hommes-femmes  parmi  les  administrateurs  non  exécutifs  des  sociétés  cotés  en  bourse
+__label__Ministre_de_la_Santé Personnel  soignant
+__label__Ministre_des_Finances Programme  de  stabilisation  de  l'économie
+__label__Ministre_de_la_Justice Création  d'un  "Ombudssystem"  compétent  pour  toutes  les  violations  des  droits  de  l'homme
+__label__Ministre_de_la_Justice Entrée  en  vigueur  du  règlement  général  sur  la  protection  des  données
+__label__Ministre_de_l'Intérieur Interruption  de  l'alimentation  en  eau  potable  du  réservoir  principal  à  Eschdorf  à  partir  de  la  station  de  traitement  à  Esch-sur-Sûre
+__label__Ministre_de_la_Santé Mesures  de  contraintes
+__label__Ministre_de_la_Sécurité_sociale Congé  pour  raisons  familiales
+__label__Ministre_de_la_Justice Respect  des  prescriptions  pour  l'approvisionnement
+__label__Ministre_de_l'Education_nationale Code  vestimentaire  dans  les  écoles
+__label__Ministre_de_l'Intérieur Systèmes  photovoltaïques  dans  les  zones  vertes
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Impact  des  éoliennes  sur  l'environnement
+__label__Ministre_de_la_Santé Don  du  sang
+__label__Premier_Ministre Allocation  du  complément  différentiel  aux  cheminots  invalides  de  guerre
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Tests  d'émissions  des  gaz  polluants  NOx
+__label__Ministre_de_l'Intérieur Création  de  comités  de  prévention  communaux  ou  intercommunaux
+__label__Ministre_de_la_Santé Lipoedème
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Analyse  budgétaire  critique  du  projet  de  construction  d'un  lycée  à  Junglinster
+__label__Ministre_de_la_Santé Nombre  d'accidents  dans  les  hôpitaux  et  cliniques  luxembourgeoises
+__label__Ministre_des_Finances Remboursement  de  la  retenue  d'impôt  à  la  source
+__label__Ministre_de_la_Justice Interprétation  de  la  loi  11-12  germinal  au  sujet  des  prénoms  dans  le  registre  de  l'état  civil
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Voie  d'urgence
+__label__Ministre_de_la_Santé Lien  entre  pesticides  et  la  maladie  de  Parkinson  dans  l'agriculture
+__label__Ministre_de_la_Santé Label  "hôpital  ami  des  bébés"
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Police  des  transports  publics
+__label__Ministre_de_l'Intérieur Loi  électorale
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Durée  du  trajet  de  travail  au  Luxembourg
+__label__Ministre_de_la_Santé Vaccination  contre  la  grippe  pour  les  membres  du  CGDIS
+__label__Premier_Ministre Représentants  de  l'Etat  dans  les  conseils  d'administration
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Projets  d'investissement  sur  la  ligne  ferroviaire  du  Nord
+__label__Ministre_de_la_Santé Efficacité  du  vaccin  contre  la  grippe
+__label__Ministre_de_l'Education_nationale Personnel  encadrant  les  élèves  lors  des  transports  scolaires
+__label__Ministre_de_l'Education_nationale Développement  futur  du  lycée  technique  hôtelier  Alexis  Heck  à  Diekirch
+__label__Ministre_de_l'Intérieur Droit  du  conseiller  communal  de  déposer  des  motions
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Structures  provisoires  d'accueil  pour  réfugiés
+__label__Ministre_de_la_Justice Prises  de  photographies  des  enfants  à  l'école  primaire
+__label__Ministre_de_la_Santé Vaccin  contre  la  Covid-19
+__label__Ministre_de_l'Education_nationale Violence  à  l'école
+__label__Ministre_de_la_Santé Transplantations  d'organes  au  Luxembourg
+__label__Ministre_des_Finances Consolidation  des  finances  publiques
+__label__Ministre_de_l'Intérieur Congé  politique
+__label__Premier_Ministre Mise  au  pilori  du  Luxembourg  par  la  Commission  européenne
+__label__Ministre_de_la_Santé Liste  de  l'UE  pour  les  substances  chimiques  hautement  préoccupantes
+__label__Ministre_de_la_Santé Administration  de  médicaments  à  l'hôpital
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Installation  d'un  "radar"  à  Wahlhausen
+__label__Premier_Ministre Industrie  du  film
+__label__Ministre_de_la_Santé Centre  de  Pharmacovigilance
+__label__Ministre_des_Finances Les  bases  d'assiette  de  l'impôt  commercial
+__label__Ministre_de_la_Santé Infections  par  le  virus  de  l'hépatite
+__label__Ministre_de_la_Justice Détention  de  chiens  de  type  "pitbull"
+__label__Ministre_des_Finances question  retirée
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Pollution  de  la  Sûre
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Rénovation  du  Lycée  du  Nord
+__label__Ministre_de_la_Justice Chambres  sécurisées  au  Centre  Hospitalier  de  Luxembourg
+__label__Ministre_de_la_Santé Suppléments  d'honoraires  réclamés  par  les  médecins  dans  le  cadre  d'une  convenance  personnelle
+__label__Ministre_de_l'Education_nationale Intentions  du  ministère  d'abolir  à  partir  du  2ième  trimestre  de  l'année  scolaire  courante  une  classe  terminale  du  Lycée  technique  Michel  Lucius
+__label__Ministre_de_l'Education_nationale Orientation  scolaire  et  professionnelle
+__label__Ministre_de_la_Sécurité_sociale Marché  de  l'emploi  luxembourgeois
+__label__Ministre_des_Finances Baux  à  loyer
+__label__Ministre_de_l'Education_nationale Equivalences
+__label__Ministre_des_Finances Optimisation  fiscale  des  sociétés
+__label__Ministre_de_l'Education_nationale Validation  des  acquis
+__label__Ministre_de_la_Justice Discriminations  liées  à  la  nationalité
+__label__Ministre_des_Finances Accord  FACTA
+__label__Ministre_de_la_Sécurité_sociale Coordination  des  appels  de  secours
+__label__Premier_Ministre Achat  d'un  avion  militaire  du  type  A400
+__label__Ministre_de_la_Santé Légalisation  du  cannabis
+__label__Ministre_de_l'Intérieur Tour  de  Luxembourg
+__label__Premier_Ministre Implantation  de  la  société  Google  au  Luxembourg
+__label__Ministre_de_l'Intérieur Unités  cynotechniques
+__label__Ministre_des_Finances Offres  de  crédit  à  la  consommation  en  ligne
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Enlèvement  de  la  haie  le  long  de  la  route  principale  reliant  Ettelbruck  à  Diekirch
+__label__Premier_Ministre Suivi  et  évaluation  systématique  d'une  politique  de  développement  durable
+__label__Ministre_de_l'Education_nationale Modèle  du  "Barnahaus"
+__label__Premier_Ministre Registre  des  lobbies
+__label__Ministre_des_Finances Premium  SMS  Service
+__label__Ministre_des_Finances Voitures  de  sociétés
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Centre  mosellan  à  Ehnen
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Bilan  de  2016  sur  les  accidents  routiers
+__label__Ministre_des_Finances Discriminations  par  des  banques
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Marquage  provisoire  dans  le  tunnel  "Houwald"
+__label__Ministre_de_la_Sécurité_sociale Échange  avec  la  Fapsylux  concernant  le  remboursement  de  la  psychothérapie
+__label__Ministre_de_l'Education_nationale Agrément  des  gestionnaires  de  structures  d'accueil  étrangères
+__label__Ministre_de_la_Santé Biberons  toxiques
+__label__Ministre_de_la_Justice Groupe  de  réfugiés  du  Monténégro
+__label__Ministre_des_Finances Renforcement  de  la  stabilité  du  système  financier  international
+__label__Ministre_de_la_Santé Normes  de  l'OMS  concernant  les  émissions  de  particules  fines  et  d'oxydes  d'azote
+__label__Ministre_de_la_Justice Mineurs  détenus  aux  centres  pénitentiaires  luxembourgeois
+__label__Ministre_de_la_Santé Problématique  du  radon
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Ponctualité  des  trains
+__label__Premier_Ministre Aréal  forestier  Grünewald
+__label__Premier_Ministre Doit  d'accès  du  Service  de  renseignement  de  l'État  à  certains  documents
+__label__Ministre_de_l'Intérieur Problèmes  d'approvisionnement  de  la  population  en  eau  potable  lors  de  la  contamination  accidentelle  des  sources  d'eau
+__label__Ministre_de_l'Education_nationale Calendrier  des  vacances  et  des  congés  scolaires
+__label__Ministre_de_la_Santé Collège  médical
+__label__Ministre_de_l'Intérieur Églises  désacralisées
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Non-financement    des  voies  d'accès  pour  la  mobilité  douce  aux  infrastructures  ferroviaires  par  le  Fonds  du  rail
+__label__Ministre_de_l'Intérieur Convention  entre  le  Naturpark  Our  et  le  Ministère  de  l'Intérieur  et  à  la  Grande  Région  concernant  un  partenariat  national  des  cours  d'eau
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Mesures  antibruit  sur  l'autoroute  A3
+__label__Ministre_de_l'Education_nationale Chiffres  clés  de  l'Éducation  nationale
+__label__Ministre_des_Finances Accord  de  Paris  sur  le  climat
+__label__Premier_Ministre Protection  des  données  personnelles
+__label__Ministre_de_l'Education_nationale Violence  à  l'école
+__label__Ministre_de_la_Sécurité_sociale Campagne  d'information  en  faveur  des  médicaments  génériques
+__label__Ministre_des_Finances Sous-capitalisation  de  la  Banque  centrale  du  Luxembourg
+__label__Ministre_de_la_Santé Analyses  dans  le  cadre  du  dépistage  du  cancer  du  col  de  l'utérus
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Réaction  de  la  société  lux-Airport  suite  à  la  récente  annonce  de  Ryanair
+__label__Ministre_de_la_Santé Cas  de  la  Covid-19  dans  des  colonies  de  vacances
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Accidents  entre  Waldhaff  et  Senningerberg
+__label__Ministre_de_la_Santé Hospitalisation  forçée
+__label__Ministre_de_la_Santé Protection  des  données  dans  le  secteur  de  la  santé
+__label__Premier_Ministre Vote  par  correspondance
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Suppression  de  trains  Luxembourg-Belgique
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Sécurité  sur  les  passages  pour  piétons
+__label__Ministre_de_l'Education_nationale Cours  d'appui  dans  l'Enseignement  fondamental
+__label__Premier_Ministre Personnel  de  l'Hôpital  neuro-psychiatrique  de  l'Etat  et  des  maisons  de  retraite  et  de  gériatrie
+__label__Premier_Ministre Arrêts  n°132  et  133  de  la  Cour  constitutionnelle
+__label__Ministre_de_la_Santé Don  du  sang
+__label__Ministre_des_Finances Bureau  des  actes  judiciaires  de  l'Administration  de  l'Enregistrement  et  des  Domaines
+__label__Ministre_de_l'Intérieur La  protection  des  cours  d'eau  contre  la  pollution  par  des  nitrates
+__label__Ministre_des_Finances Risques  pour  l'Etat  luxembourgeois  liés  au  groupe  résiduel  Dexia
+__label__Ministre_de_la_Santé L'utilisation  d'ultrasons  de  basse  intensité  dans  le  traitement  des  fractures  osseuses
+__label__Ministre_de_l'Intérieur Dommages  causés  par  les  inondations  aux  infrastructures  privées  et  communales
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Route  nationale  N10  entre  Dasbourg  et  Marnach
+__label__Ministre_des_Finances TVA  des  machines  agricoles
+__label__Ministre_de_l'Education_nationale Cours  d'accueil  pour  les  élèves  primo-arrivants  dans  l'enseignement  fondamental
+__label__Ministre_de_l'Education_nationale Directives  européennes  concernant  la  formation  des  professionnels  de  santé
+__label__Ministre_de_la_Sécurité_sociale "Gesondheets-App"  présenté  par  l'AMMD
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Construction  d'un  centre  intégré  pour  personnes  âgées  à  Rumelange  et  d'une  maison  de  soins  à  Differdange
+__label__Ministre_de_la_Santé Contraceptifs
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Manque  de  personnel  dans  la  tour  de  contrôle  de  l'aéroport  de  Luxembourg
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Travaux  le  long  de  l'antenne  ferroviaire  Diekirch-Ettelbruck
+__label__Ministre_de_la_Justice Perquisitions  en  ligne
+__label__Ministre_de_l'Intérieur Mise  en  place  d'un  système  d'alerte  et  d'information
+__label__Premier_Ministre Nombre  de  représentants  luxembourgeois  au  Conseil  économique  et  social  européen
+__label__Premier_Ministre Instructions  dans  le  cas  d'actes  criminels  commis  par  des  réfugiés
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Sécurité  des  motocyclistes
+__label__Ministre_de_la_Justice Passeport  biométrique
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Musée  de  la  Police  grand-ducale
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Installation  de  panneaux  solaires  photovoltaïques  sur  les  toits  des  immeubles  et  objets  classés  monuments  nationaux
+__label__Ministre_de_l'Intérieur Aménagement  de  la  zone  Haff  Réimech
+__label__Ministre_de_la_Sécurité_sociale Approvisionnement  en  médicaments
+__label__Ministre_de_l'Intérieur Délits  commis  par  les  réfugiés  politiques
+__label__Ministre_de_la_Justice Accueil  des  réfugiés  -  Kosovo
+__label__Ministre_de_la_Sécurité_sociale Financement  des  caisses  de  pension
+__label__Ministre_de_la_Santé Statut  unique  et  créances  de  cotisations  sociales
+__label__Ministre_de_la_Santé Procédure  d'autorisation  dans  le  secteur  de  la  santé
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Recrutement  de  conducteurs  de  train
+__label__Ministre_des_Finances Participation  des  banques  à  la  restructuration  bancaire
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Cadence  et  ponctualité  de  certaines  lignes  d'autobus
+__label__Ministre_de_la_Santé Vaccin  antigrippe
+__label__Ministre_de_l'Intérieur Indemnisations  des  membres  du  Corps  grand-ducal  d'incendie  et  de  secours
+__label__Ministre_de_la_Justice Recherche  généalogique
+__label__Ministre_de_la_Justice Phénomène  de  la  mafia  chinoise
+__label__Ministre_de_la_Justice Affaire  "Bommeleeër"
+__label__Ministre_des_Finances Calcul  des  taux  d'intérêts  par  les  banques  dans  le  contexte  de  crédits  aux  particuliers
+__label__Ministre_de_la_Santé Cannabidiol
+__label__Ministre_de_la_Sécurité_sociale Conseil  arbitral  de  la  sécurité  sociale
+__label__Ministre_des_Finances Zone  franche
+__label__Ministre_de_la_Justice Consommation  de  cannabis
+__label__Ministre_de_l'Education_nationale Ecole  privée  musulmane
+__label__Ministre_de_la_Justice Coupure  d'eau  au  Centre  pénitentiaire  de  Schrassig
+__label__Ministre_de_l'Intérieur Lutte  contre  le  faux  monnayage
+__label__Ministre_de_l'Education_nationale Instituteurs  spécialisés  dans  la  scolarisation  des  enfants  à  besoins  éducatifs  particuliers  ou  spécifiques  (I-EBS)
+__label__Ministre_des_Finances Impôts  directs  de  l'Etat
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Structures  d'accueil  pour  demandeurs  de  protection  internationale
+__label__Ministre_de_la_Santé 4e  vecteur  du  SAMU
+__label__Premier_Ministre Responsabilités  en  cas  d'accident  nucléaire
+__label__Premier_Ministre Ouverture  au  public  du  Grünewald
+__label__Ministre_de_la_Justice Impression  des  billets  libellés  en  euros
+__label__Ministre_de_la_Santé Banque  de  données  sur  les  demandes  d'admission  dans  une  maison  de  soins
+__label__Ministre_de_la_Sécurité_sociale Allégement  des  formalités  en  matière  de  remboursement  des  frais  en  cas  de  maladie  du  personnel  ménager
+__label__Ministre_de_l'Intérieur Immeubles  classés  par  les  communes
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Prime  pour  véhicules  à  deux  roues  à  propulsion  alternative
+__label__Ministre_de_l'Intérieur Charte  européenne  pour  l'égalité  des  femmes  et  des  hommes  dans  la  vie  locale
+__label__Ministre_de_la_Santé Infections  détectés  dans  des  abattoirs
+__label__Ministre_de_la_Santé Plaintes  de  patients  envers  des  prestataires  de  services  dans  le  domaine  de  la  santé
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Récent  jugement  concernant  le  dossier  «  Saarautobunn  »
+__label__Ministre_de_la_Santé Droits  du  patient
+__label__Ministre_de_l'Intérieur Achat  d'un  terrain  en  France  par  la  Ville  de  Differdange
+__label__Ministre_de_la_Sécurité_sociale Travaux  préalables  à  l'installation  d'appareils  IRM  supplémentaires
+__label__Ministre_de_la_Santé Transformation  du  Centre  Hospitalier  Neuro-Psychiatrique  d'Ettelbrück
+__label__Ministre_de_la_Justice Evasion  d'un  détenu  du  Centre  hospitalier  neuro-psychiatrique  d'Ettelbrück
+__label__Ministre_des_Finances Prêts  à  taux  négatifs  de  la  Banque  centrale  européenne
+__label__Ministre_de_la_Santé Le  statut  des  aides-soignants
+__label__Ministre_de_la_Santé Coronavirus
+__label__Ministre_de_l'Education_nationale Brevet  de  maîtrise
+__label__Ministre_de_l'Education_nationale Maison  de  l'Orientation
+__label__Ministre_de_la_Santé Normes  de  qualité  et  de  sécurité  des  organes  humains  destinés  à  la  transplantation
+__label__Ministre_de_l'Education_nationale Situation  de  l'hôtel  d'application  et  des  internats  du  Lycée  technique  hôtelier
+__label__Ministre_du_Développement_durable_et_des_Infrastructures "Platzverweis"  dans  les  transports  publics
+__label__Ministre_de_la_Justice Accès  aux  jugements  et  degré  d'anonymisation  des  décisions  de  justice
+__label__Ministre_de_la_Justice La  garantie  de  l'Etat  accordée  aux  compagnies  aériennes
+__label__Ministre_de_la_Santé Rupture  de  stocks  de  médicaments
+__label__Ministre_des_Finances Application  d'un  taux  réduit  TVA  pour  la  restauration
+__label__Ministre_de_l'Intérieur Réserves  en  eau  potable
+__label__Premier_Ministre Système  des  "Spitzenkandidaten"  dans  le  cadre  des  élections  parlementaires  européennes
+__label__Premier_Ministre Compétences  des  Vice-Premier  Ministres
+__label__Ministre_de_la_Sécurité_sociale Affiliation  en  tant  qu'indépendant  des  délégués  à  la  gestion  journalière  de  certaines  sociétés
+__label__Ministre_des_Finances TVA  en  matière  du  logement
+__label__Ministre_des_Finances Représentation  luxembourgeoise  auprès  de  l'OCDE
+__label__Ministre_de_la_Justice Pistolets  à  électrochocs
+__label__Ministre_de_l'Education_nationale Participation  aux  activités  offertes  par  la  LASEP
+__label__Ministre_de_l'Intérieur Élimination  de  déchets  infectieux  médicaux
+__label__Ministre_de_la_Santé Distribution  contrôlée  d'héroïne  dans  le  cadre  de  la  lutte  contre  les  stupéfiants
+__label__Ministre_de_la_Justice A.S.B.L.  inscrites  au  Registre  de  Commerce  et  des  Sociétés
+__label__Ministre_de_l'Education_nationale Chèques  services
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Délocalisation  du  contrôle  aérien  du  contrôle  d'approche  vers  un  prestataire  de  service  étranger
+__label__Ministre_de_la_Santé Test  de  dépistage  de  la  Covid-19  à  l'Aéroport  de  Luxembourg
+__label__Ministre_des_Finances Tarifs  pratiqués  par  les  banques
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Schéma  de  mobilité  transfrontalière  (SMOT)
+__label__Premier_Ministre Symposium  "Quel  futur  pour  les  Palestiniens  et  Israéliens?"
+__label__Ministre_de_la_Justice Autorisation  de  séjour  d'une  famille  yougoslave
+__label__Ministre_de_l'Education_nationale Transport  scolaire  pendant  la  mise  en  quarantaine
+__label__Ministre_des_Finances Interruption  des  versements  de  l'aide  au  réemploi  depuis  janvier  1999
+__label__Ministre_de_la_Santé Produits  proposés  dans  les  cantines
+__label__Ministre_de_la_Santé \
+__label__Ministre_de_la_Santé Méthodes  de  paiement  dans  les  parkings  des  hôpitaux
+__label__Premier_Ministre Répartitions  des  fonds  de  l'Oeuvre  Grande-Duchesse  Charlotte
+__label__Ministre_de_la_Santé Analyse  de  sang
+__label__Ministre_de_la_Santé Dépêche  d'en  expert  français  auprès  du  service  de  neurochirurgie  au  Centre  hospitalier
+__label__Ministre_de_l'Intérieur La  politique  de  l'eau  dans  le  cadre  d'une  protection  intégrée  de  l'environnement
+__label__Ministre_de_la_Justice Circonstances  du  décès  d'un  détenu  au  Centre  pénitentiaire  de  Luxembourg
+__label__Ministre_de_l'Intérieur Vols  d'appareils  téléphoniques  portables
+__label__Ministre_de_l'Education_nationale Réunions  de  service  du  personnel  enseignant
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Travaux  en  vue  de  la  réalisation  du  tram
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Accessibilité  de  la  gare  de  Bascharage-Sanem  aux  usagers  du  train
+__label__Ministre_de_la_Justice Trafic  d'armes
+__label__Ministre_de_l'Intérieur Soutien  financier  des  communes  réalisant  des  audits  environnementaux
+__label__Ministre_de_la_Justice Réseaux  antagonistes  génératifs  dans  la  lutte  contre  la  pédopornographie
+__label__Ministre_de_l'Education_nationale Auxiliaires  éducatifs
+__label__Ministre_de_l'Intérieur Suppression  de  l'impôt  commercial
+__label__Ministre_de_l'Intérieur Dépôt  des  candidatures  pour  les  élections  communales  dans  les  communes  à  scrutin  majoritaire
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Baisse  de  vitesse  sur  les  autoroutes  du  Grand-Duché  et  notamment  la  A3
+__label__Ministre_de_la_Santé Surmortalité  liée  à  la  pandémie  de  la  Covid-19
+__label__Ministre_de_la_Justice Gestation  pour  autrui
+__label__Ministre_de_l'Education_nationale Lancement  dès  la  rentrée  scolaire  2016-2017  de  projets  pilotes  dans  plusieurs  structures  d'accueil  pour  enfants  de  zéro  à  trois  ans
+__label__Ministre_de_la_Santé Infections  de  la  Covid-19  dans  des  maisons  de  soins
+__label__Ministre_de_la_Santé Deuxième  secteur  de  la  médecine
+__label__Ministre_de_l'Education_nationale Participation  aux  cours  de  natation
+__label__Premier_Ministre Inondations
+__label__Ministre_de_l'Education_nationale démarche  collective  proposée  par  l'Assemblée  générale  des  comités  des  lycées
+__label__Ministre_de_l'Education_nationale Interdiction  des  smartphones  dans  les  écoles
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Négociations  entre  Luxtram  sa  et  la  délégation  des  salariés
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Horaires  des  bus  vers  le  Lycée  d'Echternach
+__label__Ministre_de_l'Intérieur Jumelage  entre  deux  villes
+__label__Ministre_de_la_Sécurité_sociale Transposition  de  la  réforme  et  de  l'accord  salarial  de  la  fonction  publique  dans  le  secteur  d'aides  et  de  soins  et  le  secteur  social  (SAS)  et  le  secteur  hospitalier  (FHL)
+__label__Ministre_de_l'Intérieur Inhumation  et  incinération  des  dépouilles  mortelles
+__label__Ministre_de_la_Sécurité_sociale Égalité  entre  les  femmes  et  les  hommes  dans  le  cadre  de  la  pandémie  de  la  Covid-19
+__label__Ministre_de_la_Santé Accueil  de  malades  belges  dans  le  cadre  de  la  pandémie  de  la  Covid-19
+__label__Ministre_de_la_Justice Procédures  d'asile
+__label__Ministre_de_l'Education_nationale "Révolution  éducative"
+__label__Ministre_des_Finances Logement  de  service  des  brigades  motorisées  de  l'Administration  des  Douanes  et  Accises
+__label__Ministre_de_l'Education_nationale Brevet  d'Initiation  à  l'Aéronautique
+__label__Ministre_de_la_Sécurité_sociale Polyneuropathies  et  autres  pathologies  lourdes
+__label__Ministre_de_l'Intérieur Fonctionnement  de  l'Administration  du  Cadastre
+__label__Ministre_de_la_Santé Publicité  des  hôpitaux
+__label__Ministre_de_l'Intérieur Fabriques  d'église
+__label__Ministre_de_l'Intérieur Utilisation  de  sabots  de  Denver  pour  immobiliser  des  véhicules
+__label__Premier_Ministre 70e  anniversaire  de  la  fin  de  la  deuxième  guerre  mondiale
+__label__Ministre_de_l'Intérieur Volontaires  au  service  du  CGDIS
+__label__Ministre_de_la_Santé Installation  de  purificateurs  d'air  dans  les  écoles
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Elargissement  de  l'autoroute  A6
+__label__Ministre_de_la_Justice Carte  d'identité  -  Nom  patronymique  du  conjoint
+__label__Premier_Ministre Réforme  du  Code  de  déontologie  du  Gouvernement
+__label__Ministre_de_l'Intérieur Compatibilité  d'un  prix  échelonné  de  l'eau  avec  la  directive  2000/60/CE
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Projets  d'infrastructure  au  niveau  de  la  Nordstad
+__label__Ministre_des_Finances Prix  des  carburants
+__label__Premier_Ministre Protocole  d'accord  entre  le  Gouvernement  et  RTL  Group  Bertelsmann/GBL/Pearson
+__label__Premier_Ministre Luxembourg,  futur  siège  de  l'agence  de  sécurité  alimentaire  européenne
+__label__Ministre_de_la_Santé Assistant  technique  médical
+__label__Ministre_de_la_Justice Arrêt  de  la  Cour  de  Justice  des  Communautés  Européennes  interdisant  l'expulsion  à  vie  d'un  ressortissant  communautaire
+__label__Ministre_de_la_Sécurité_sociale Etablissement  d'une  pharmacie  dans  le  quartier  "Fetschenhaff-Cents"
+__label__Ministre_de_la_Santé Obésité
+__label__Ministre_de_la_Justice Reconnaissance  mutuelle  des  avertissements  taxés  et  des  procès-verbaux
+__label__Ministre_de_l'Education_nationale Comité  des  élèves
+__label__Ministre_de_l'Intérieur Procédure  d'établissement  des  cartes  d'identité  luxembourgeoises
+__label__Ministre_de_la_Santé Vaccin  contre  la  grippe
+__label__Ministre_de_l'Education_nationale Subvention  de  projets  promouvant  la  langue  luxembourgeoise
+__label__Ministre_de_l'Education_nationale Lieu  de  travail  et  affectations  des  chargés  de  cours  de  la  réserve  des  auxiliaires  éducatifs  de  l'enseignement  fondamental
+__label__Ministre_de_la_Santé Médecins  de  garde
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Transports  publics
+__label__Ministre_de_l'Education_nationale Harmonisation  des  horaires  des  cycles  de  l'enseignement  fondamental
+__label__Ministre_des_Finances Logiciel  d'analyse  des  opérations  commerciales  sur  Internet
+__label__Ministre_des_Finances Office  Luxembourgeois  pour  l'Accroissement  de  la  Productivité  (OLAP)
+__label__Ministre_de_la_Santé Eventuelle  fusion  entre  le  Centre  hospitalier  du  Kirchberg  et  la  Zithaklinik
+__label__Ministre_de_la_Santé Accès  aux  soins  des  demandeurs  d'asile
+__label__Ministre_de_la_Santé Leucémie  infantile  au  Luxembourg  et  étude  scientifique  française  établissant  un  lien  entre  leucémie  infantile  et  centrales  nucléaires
+__label__Ministre_de_l'Education_nationale Visites  dans  les  foyers  pour  enfants
+__label__Ministre_de_la_Sécurité_sociale PET  Scan
+__label__Ministre_des_Finances Administration  des  Contributions  Directes
+__label__Ministre_de_l'Education_nationale Dispositif  sanitaire  au  sein  des  établissements  scolaires  dans  le  cadre  de  la  pandémie  de  la  Covid-19
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Obligation  d'apartenance  à  une  coopérative  de  chasse
+__label__Ministre_de_l'Education_nationale Diplômes  de  fin  d'études  secondaires
+__label__Ministre_de_la_Santé Epidémie  de  grippe
+__label__Ministre_de_la_Santé Nouvelles  technologies  génomiques
+__label__Ministre_de_l'Intérieur Publication  des  règlements  communaux
+__label__Premier_Ministre Politique  en  matière  d'énergies  renouvelables
+__label__Ministre_des_Finances Installations  photovoltaïques
+__label__Ministre_des_Finances Titres  de  transport  gratuits
+__label__Premier_Ministre Représentation  du  lion  stylisé  figurant  sur  le  nouveau  passeport  biométrique
+__label__Ministre_de_la_Justice Bilan  de  la  création  de  la  société  à  responsabilité  limitée  simplifiée
+__label__Ministre_de_la_Justice Vidéosurveillance  des  zones  de  sécurité
+__label__Ministre_de_la_Santé Victimes  du  médicament  antiépileptique  "Dépakine"
+__label__Ministre_de_l'Education_nationale Horaires  des  classes  préscolaires  pour  l'année  2000/2001
+__label__Ministre_de_la_Santé Consultations  publiques  relatives  à  deux  propositions  de  décision  de  l'ASN  concernant  le  nucléaire  français  et  l'impact  éventuel  sur  la  centrale  de  Cattenom
+__label__Ministre_des_Finances Consultants  engagés  par  le  Gouvernement
+__label__Ministre_des_Finances Télétravail  pour  les  frontaliers  belges
+__label__Ministre_de_la_Santé Arrêt  d'embauche  dans  le  secteur  hospitalier
+__label__Premier_Ministre Situation  concurrentielle  du  Luxembourg  en  tant  que  siège  européen
+__label__Ministre_de_la_Santé Invitation  au  "Large  scale  testing"  pour  les  élèves
+__label__Ministre_de_l'Education_nationale Matériel  didactique  pour  l'enseignement  du  luxembourgeois
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Etat  de  la  route  entre  Reisdorf  et  Bettel  via  Hoesdorf
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Possibilité  de  construction  d'un  P&R  dans  la  région  transfrontalière  lorraine
+__label__Ministre_de_l'Intérieur Épandage  de  sel
+__label__Ministre_des_Finances Effectifs  des  brigades  motorisées  de  l'Administration  des  Douanes  et  Accises
+__label__Ministre_des_Finances Compensation  financière  visant  à  couvrir  la  moins-value  fiscale  encourue  par  les  communes  belges    de  par  l'imposition  des  travailleurs  frontaliers  belges  au  Luxembourg
+__label__Ministre_de_la_Justice Criminalité  organisée  au  Luxembourg
+__label__Ministre_des_Finances Participation  des  douanes  luxembourgeoises  à  l'opération  "Fake"  en  mai  2005  (détection  d'articles  contrefaits)
+__label__Ministre_de_la_Justice Absence  d'un  établissement  pénitentiaire  à  régime  semi-ouvert  pour  les  femmes
+__label__Ministre_de_la_Santé Frais  de  transport  ambulanciers
+__label__Premier_Ministre Diffusion  de  programmes  de  télévision  locale
+__label__Ministre_de_la_Sécurité_sociale Emploi  pour  les  retraités
+__label__Ministre_des_Finances Compensations  fiscales
+__label__Premier_Ministre Lutte  contre  la  fraude  à  la  TVA
+__label__Ministre_des_Finances Espaces  de  travail  partagés  dits  "coworking  spaces"
+__label__Ministre_de_la_Justice Collaboration  entre  les  différents  ministères  dans  le  cadre  de  l'accueil  de  réfugiés
+__label__Premier_Ministre Renflouement  du  Fonds  monétaire  international
+__label__Ministre_de_la_Justice Accord  du  Luxembourg  à  la  dénonciation  de  la  Belgique  de  la  convention  du  6  mai  1963  sur  la  réduction  des  cas  de  pluralité  de  nationalités  et  sur  les  obligations  militaires  en  cas  de  pluralité  de  nationalité
+__label__Ministre_de_la_Sécurité_sociale Gestion  de  la  réserve  de  compensation  par  le  "Fonds  de  compensation"  commun  au  régime  général  de  pension
+__label__Ministre_de_la_Justice La  publicité  comparative
+__label__Ministre_des_Finances Mise  à  disposition  des  données  de  la  base  de  données  topo/cartographique  (BD-L-TC)
+__label__Ministre_de_l'Education_nationale Trouble  du  déficit  de  l'attention  avec  ou  sans  hyperactivité  (TDAH  /  ADHS)
+__label__Ministre_de_la_Santé Maison  médicale  dans  la  région  Est  du  Luxembourg
+__label__Ministre_de_la_Justice Affaire  "Bommeleeër"
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Signaux  "STOP"  sur  le  réseau  routier  luxembourgeois
+__label__Ministre_de_l'Education_nationale Activités  de  candidats  aux  élections  européennes  au  sein  de  plusieurs  établissements  scolaires
+__label__Ministre_de_l'Education_nationale Système  des  chèques-  services  pour  les  activités  sportives
+__label__Ministre_de_l'Education_nationale Accès  aux  écoles  privées  pour  les  enfants  à  besoins  éducatifs  spécifiques
+__label__Premier_Ministre Spot  audiovisuel  diffusé  par  un  membre  du  Gouvernement  via  les  réseaux  sociaux  au  sujet  de  la  politique  familiale
+__label__Ministre_de_la_Santé La  thérapie  de  la    toxicomanie  par    l'acupuncture
+__label__Ministre_de_la_Santé Intolérance  au  lactose
+__label__Ministre_des_Finances Etudes  lancées  par  les  acteurs  publics
+__label__Ministre_de_la_Santé Acide  gamma  hydro  butyrique  connu  comme  "drogue  du  viol"
+__label__Premier_Ministre Bilan  du  Service  national  de  la  médiation  à  la  consommation  (SNMC)  pour  2019
+__label__Premier_Ministre Histoire  coloniale  luxembourgeoise
+__label__Ministre_de_la_Justice Consommation  de  cannabis
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Panneaux  de  signalisation  routière
+__label__Ministre_des_Finances Immatriculation  des  véhicules  belges  au  Grand-Duché  de  Luxembourg
+__label__Ministre_de_la_Santé Statut  pour  les  bénévoles  d'accompagnement
+__label__Ministre_de_la_Justice Système  de  vidéosurveillance
+__label__Ministre_des_Finances Bulletin  d'impôt  foncier
+__label__Ministre_de_la_Santé Rougeole
+__label__Ministre_de_la_Santé Vaccination  contre  le  "Human  Papilloma  Virus"  (HPV)
+__label__Ministre_de_l'Intérieur Vidéosurveillance
+__label__Ministre_du_Développement_durable_et_des_Infrastructures École  de  la  2e  chance
+__label__Ministre_des_Finances Impôt  sur  la  fortune  minimum  pour  entreprises
+__label__Ministre_de_l'Education_nationale Éducation  au  développement  durable
+__label__Ministre_des_Finances Trésorerie  de  l'Etat
+__label__Ministre_de_la_Justice Protection  des  données  de  la  jeunesse
+__label__Ministre_de_la_Justice Délai  de  prescription  en  matière  d'abus  sexuels  commis  sur  des  enfants
+__label__Ministre_de_l'Education_nationale Congé  scolaire  collectif  dans  l'enseignement  fondamental  pour  participer  au  pèlerinage  de  l'Octave  Notre-Dame
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Couloir  pour  bus  à  la  hauteur  de  la  sortie  8  de  l'autoroute  A1
+__label__Ministre_de_la_Santé Administration  préventive  d'antibiotiques  dans  les  élevages  de  bétail
+__label__Ministre_de_l'Intérieur Vente  de  terrains  communaux  prévus  pour  la  construction  de  logements
+__label__Ministre_de_la_Santé Euthanasie
+__label__Ministre_de_la_Justice Cas  d'un  retour  forcé  échoué  d'une  personne  déboutée  du  droit  d'asile  vers  la  Guinée  Conakry
+__label__Ministre_de_la_Santé Convention  MEDICRIME
+__label__Premier_Ministre Nouvelle  loi  relative  au  service  de  renseignement  allemand
+__label__Ministre_de_la_Santé Fentanyl
+__label__Premier_Ministre Mise  en  place  d'un  marché  légal  pour  les  produits  dérivés  et  "inoffensifs"  de  la  feuille  de  coca
+__label__Ministre_de_l'Intérieur Loi  communale
+__label__Ministre_de_l'Intérieur Financement  de  la  composante  aérienne  du  SAMU  assurée  actuellement  par  l'asbl  Luxembourg  Air  Rescue
+__label__Premier_Ministre Délai  à  respecter  pour  l'introduction  de  la  déclaration  d'impôt  sur  le  revenu
+__label__Ministre_de_la_Santé Personnes  agées  souffrant  d'une  maladie  psychiatrique
+__label__Ministre_de_la_Justice Protection  des  animaux
+__label__Ministre_de_l'Education_nationale Tests  de  dépistage  des  troubles  cognitifs  et  d'apprentissage
+__label__Ministre_de_la_Sécurité_sociale Consultations  dans  les  maisons  de  retraite  et  de  soins  par  des  médecins  externes
+__label__Ministre_des_Finances Déductibilité  des  dons  aux  associations  culturelles
+__label__Ministre_de_la_Santé Reconnaissance  de  l'ostéopathie
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Pollution  du  ruisseau  "Bibeschbaach"  à  Livange
+__label__Ministre_de_l'Education_nationale Gaspillage  alimentaire  "fruits  à  l'école"
+__label__Ministre_de_la_Santé Bisphénol  A  (BPA)
+__label__Ministre_de_la_Santé 71e  édition  de  l'Assemblée  mondiale  de  la  santé
+__label__Ministre_de_la_Sécurité_sociale Vaccin  contre  les  infections  à  HPV  (anti-Papillomavirus  Humain)
+__label__Ministre_de_la_Santé Formation  des  cadres  de  santé
+__label__Ministre_de_la_Santé Matériel  de  radioprotection
+__label__Ministre_de_la_Justice Non-représentation  d'enfants
+__label__Ministre_de_la_Sécurité_sociale Commission  de  nomenclature
+__label__Ministre_de_la_Santé Nomenclature  des  prothèses  et  traitements  dentaires
+__label__Ministre_de_la_Justice Lettre  du  Procureur  général  d'Etat  au  Ministre  de  la  Sécurité  intérieure  en  relation  avec  la  réforme  de  la  police  judiciaire
+__label__Ministre_des_Finances Provisions  bilantaires  du  secteur  financier
+__label__Ministre_de_la_Santé Conseil  d'administration  du  centre  thermal  et  de  santé  de  Mondorf-les-Bains
+__label__Ministre_des_Finances Augmentation  de  la  taxe  sur  la  valeur  ajoutée
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Situation  de  parking  et  de  stationnement  à  la  gare  d'Ettelbruck
+__label__Ministre_des_Finances Cours  des  actions  d'ARCELOR
+__label__Ministre_de_l'Education_nationale Laïcité  de  l'école
+__label__Ministre_de_l'Intérieur Séparation  de  l'Église  et  de  l'État
+__label__Ministre_de_la_Santé Dépistage  à  grande  échelle  (Large  Scale  Testing)
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Chantier  du  tram
+__label__Premier_Ministre Eventuelle  sortie  de  la  Grande-Bretagne  de  l'Union  européenne
+__label__Ministre_de_la_Santé Fabrication  de  verres  de  lunettes
+__label__Ministre_des_Finances Taux  des  accises  applicables  aux  tabacs  manufacturés
+__label__Ministre_de_l'Education_nationale Étudiants  sportifs
+__label__Ministre_de_l'Intérieur Dispersion  des  cendres  funéraires
+__label__Ministre_de_la_Justice Communication  entre  la  Police  grand-ducale  et  les  autorités  judiciaires
+__label__Ministre_de_la_Justice Exécution  des  jugements
+__label__Ministre_de_la_Sécurité_sociale Protection  des  données  dans  le  cadre  des  prestations  de  services  d'aide  et  de  soins  par  des  organismes  privés
+__label__Ministre_de_l'Intérieur Élaboration  d'un  code  de  déontologie  pour  les  élus  communaux
+__label__Ministre_de_la_Santé Évolution  du  nombre  de  personnes  souffrant  de  la  grippe
+__label__Ministre_de_la_Santé Application  de  la  loi  sur  l'euthanasie
+__label__Ministre_de_la_Santé Accidents  de  travail  dans  le  domaine  de  la  santé
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Rapport  de  l'accident  entre  un  aéronef  et  une  camionette  le  21  janvier  2010
+__label__Ministre_du_Développement_durable_et_des_Infrastructures By-pass  pour  le  giratoire  "Fridhaff"
+__label__Ministre_de_la_Santé Liste  des  médicaments  remboursés  par  l'Union  des  Caisses  de  Maladie
+__label__Ministre_des_Finances Mécanisme  d'alerte  dans  le  cadre  du  semestre  européen
+__label__Ministre_de_la_Justice Revendications  de  l'association  luxembourgeoise  des  avocats  pénalistes
+__label__Ministre_de_la_Santé Suicide
+__label__Ministre_de_l'Education_nationale Brevet  sportif  national
+__label__Ministre_de_l'Intérieur Evolution  de  la  délinquance
+__label__Ministre_de_la_Santé Phénomène  de  la  commercialisation  de  médicaments  manipulés
+__label__Ministre_de_l'Intérieur Projets  d'infrastructure  sur  le  site  de  Belval-Ouest
+__label__Ministre_de_l'Intérieur Commission  spéciale  des  pensions
+__label__Ministre_de_la_Santé Test  rapide  corona
+__label__Premier_Ministre Communication  politico-diplomatique  du  Gouvernement  dans  le  cas  précis  de  la  fermeture  potentielle  de  la  centrale  nucléaire  de  Cattenom
+__label__Ministre_de_l'Intérieur Réseau  national  intégré  de  radiocommunications
+__label__Ministre_de_la_Santé Dossier  médical  personnel
+__label__Ministre_de_l'Education_nationale Nouveau  lycée  à  Clervaux
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Direction  de  l'aviation  (DAC)
+__label__Ministre_de_la_Justice Groupements  d'extrême  droite
+__label__Ministre_des_Finances Bilan  des  mesures  fiscales  en  faveur  du  logement
+__label__Premier_Ministre Groupe  ad  hoc  pour  accompagner  les  mesures  décidées  dans  le  cadre  de  la  lutte  contre  la  Covid-19
+__label__Ministre_de_la_Santé Caractère  dangereux  des  pointeurs  à  rayon  laser
+__label__Ministre_de_la_Santé Satisfaction  des  patients  avec  les  services  dans  les  hôpitaux
+__label__Ministre_de_la_Santé Priorisation  vaccinale  pour  les  personnes  appartenant  à  des  catégories  socio-professionnelles  considérées  comme  essentielles  et  particulièrement  exposées
+__label__Ministre_de_la_Santé Liste  de  contrôle  de  la  sécurité  chirurgicale
+__label__Premier_Ministre Contrat  à  durée  déterminée
+__label__Ministre_de_l'Intérieur Limites  communales
+__label__Ministre_des_Finances Politique  tarifaire  des  établissements  financiers
+__label__Ministre_de_la_Justice Procédure  de  saisie  immobilière
+__label__Ministre_de_la_Justice Congé  extraordinaire  en  cas  de  déclaration  de  partenariat
+__label__Premier_Ministre Cyberattaques
+__label__Ministre_de_la_Sécurité_sociale Refus  de  payer  des  indemnités  ou  de  prise  en  charge  d'un  traitement  à  cause  de  la  bureaucratie  de  la  Caisse  nationale  de  Santé  (CNS)
+__label__Ministre_de_l'Education_nationale Educateurs  de  l'enseignement  fondamental
+__label__Ministre_de_l'Education_nationale Scolarisation  à  domicile
+__label__Ministre_de_l'Education_nationale Effectifs  des  classes  de  l'enseignement  secondaire
+__label__Ministre_de_la_Santé Dispositifs  de  radioprotection
+__label__Ministre_des_Finances Accises
+__label__Ministre_des_Finances Réforme  fiscale
+__label__Premier_Ministre Activités  du  BND  pour  le  compte  de  la  NSA
+__label__Ministre_des_Finances Politique  de  recouvrement  des  créances  fiscales
+__label__Ministre_de_la_Justice Prévention  d'une  utilisation  abusive  du  réseau  Internet  en  ce  qui  concerne  la  CEE
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Abattement  fiscal  pour  mobilité  durable
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Administration  de  la  navigation  aérienne
+__label__Ministre_de_la_Santé Service  médical  public
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Construction  d'une  ligne  haute  tension  par  la  société  SOTEL  -  PAG
+__label__Ministre_de_la_Santé Reconnaissance  des  diplômes  des  courants  de  pensée  infirmière
+__label__Ministre_des_Finances Exemption  de  la  taxe  sur  les  véhicules  automoteurs  pour  personnes  invalides
+__label__Premier_Ministre Cyberattaques
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Futur  rond-point  à  Roost
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Trafic  de  transit  dans  la  Ville  de  Diekirch
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Renaturalisation  de  la  vallée  de  la  Pétrusse
+__label__Ministre_de_la_Sécurité_sociale Analyse  de  biopsies  par  le  Laboratoire  national  de  santé
+__label__Ministre_des_Finances Imposition  des  fonds  d'investissements  spécialisés  dans  le  domaine  immobilier
+__label__Ministre_de_la_Santé Prise  en  charge  des  patients  souffrant  de  douleurs  chroniques
+__label__Ministre_de_l'Education_nationale Révision  de  la  loi  scolaire
+__label__Ministre_de_la_Santé Fuite  importante  d'acide  chlorhydrique  à  la  centrale  nucléaire  de  Cattenom
+__label__Ministre_de_la_Justice Déplacement  du  milieu  de  la  drogue  vers  la  rue  de  Strasbourg
+__label__Ministre_des_Finances Cessions  et  saisies
+__label__Ministre_de_l'Intérieur Rapport  de  la  police  grand-ducale  "Dysfonctionnements  généralisés"
+__label__Ministre_de_la_Sécurité_sociale Pension  de  survie
+__label__Ministre_de_la_Sécurité_sociale Contrôle  de  la  qualité  des  prestations  de  l'assurance  dépendance
+__label__Premier_Ministre Grippe  H1/N1  -  Personnel  des  centres  de  vaccination
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Projet  Livange
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Traversée  de  Hosingen
+__label__Ministre_de_l'Education_nationale Recrutement  des  enseignants  "2e  voie"
+__label__Ministre_de_la_Santé Danger  des  rayons  UV
+__label__Ministre_de_la_Santé Prévention  du  suicide
+__label__Ministre_de_l'Education_nationale Consultation  des  résultats  provisoires  des  corrections  des  examens  de  fin  d'études  secondaires  au  serveur  de  l'Education  nationale
+__label__Ministre_de_l'Education_nationale Formation  de  l'éducateur
+__label__Ministre_de_l'Education_nationale Enseignement  à  domicile
+__label__Ministre_des_Finances Évolution  des  prix  des  produits  de  tabac
+__label__Ministre_des_Finances Taxe  d'abonnement
+__label__Ministre_des_Finances Administration  des  Contributions  directes
+__label__Ministre_de_la_Sécurité_sociale Remboursement  des  transports  en  ambulance
+__label__Ministre_du_Développement_durable_et_des_Infrastructures Chemin  repris  reliant  Michelau  au  lieu-dit  Flébour  (CR  379)
+__label__Ministre_de_l'Education_nationale Projet  intégré  final  de  rattrapage
