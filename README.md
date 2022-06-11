@@ -2,7 +2,7 @@
 
 # Summary 
 
-![Project summary](Parliamentary questions ministries.pdf  "Project poster")
+<embed src="Parliamentary questions ministries.pdf" type="application/pdf">
 
 # Installation
 
