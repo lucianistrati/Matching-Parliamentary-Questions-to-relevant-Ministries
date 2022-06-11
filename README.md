@@ -4,7 +4,7 @@
 
 <object data="Parliamentary questions ministries.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="Parliamentary questions ministries.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Parliamentary questions ministries.pdf">Download PDF</a>.</p>
+        <p>You can get a documentation of the project <a href="Parliamentary questions ministries.pdf">here</a>.</p>
     </embed>
 </object>
 
