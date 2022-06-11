@@ -2,7 +2,11 @@
 
 # Summary 
 
+
 <embed src="Parliamentary questions ministries.pdf" type="application/pdf">
+
+<object data="Parliamentary questions ministries.pdf" type="application/pdf" width="100%">
+</object>
 
 # Installation
 
