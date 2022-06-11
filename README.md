@@ -2,6 +2,7 @@
 
 # Summary 
 
+![Project summary](Parliamentary questions ministries.pdf  "Project poster")
 
 # Installation
 
