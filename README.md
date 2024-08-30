@@ -46,4 +46,4 @@ The project suggests several areas for further exploration and improvement:
 - Explore more aggressive preprocessing techniques for text, particularly with stop-words.
 
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
